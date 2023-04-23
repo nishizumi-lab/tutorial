@@ -1,6 +1,6 @@
 # 水車の種類 
 
-[!['alt-text']('img-url')]('https://docs.google.com/presentation/d/e/2PACX-1vQn4b2x8f0f_vYs6cxVfH4lDekZjPyRNYP6Fg29rqcq1Z2HbS_1xs1cia3zZMQz6g/embed?start=false&amp;loop=false&amp;delayms=3000')
+[![alt-text](img-url)](https://docs.google.com/presentation/d/e/2PACX-1vQn4b2x8f0f_vYs6cxVfH4lDekZjPyRNYP6Fg29rqcq1Z2HbS_1xs1cia3zZMQz6g/embed?start=false&amp;loop=false&amp;delayms=3000)
 
 
 主な水車の種類は以下のとおり。
