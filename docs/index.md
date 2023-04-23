@@ -11,3 +11,8 @@
 - [情報処理技術者試験](./electricity/denken/denken3.md)
 
 ## ゲーム攻略
+
+
+## 関連ページ
+
+- [https://nishizumi-lab.github.io/tutorial/](https://nishizumi-lab.github.io/tutorial/)
