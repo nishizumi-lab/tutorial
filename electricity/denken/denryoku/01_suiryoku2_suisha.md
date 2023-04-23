@@ -1,6 +1,7 @@
 # 水車の種類 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQn4b2x8f0f_vYs6cxVfH4lDekZjPyRNYP6Fg29rqcq1Z2HbS_1xs1cia3zZMQz6g/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[!['alt-text']('img-url')]('https://docs.google.com/presentation/d/e/2PACX-1vQn4b2x8f0f_vYs6cxVfH4lDekZjPyRNYP6Fg29rqcq1Z2HbS_1xs1cia3zZMQz6g/embed?start=false&amp;loop=false&amp;delayms=3000')
+
 
 主な水車の種類は以下のとおり。
 
@@ -44,9 +45,13 @@ $$
 
 ## 参考動画
 
+[!['alt-text']('img-url')]('https://www.youtube.com/embed/kEA3AwFf-OY')
+
+!['alt-text']('img-url')]('https://www.youtube.com/embed/hxoSf7sEJFg')
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEA3AwFf-OY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hxoSf7sEJFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 特に圧力水車(フランシス水車など)や、衝撃水車と比べて文章だけでは仕組みがわかりにくいため、動画などを見てイメージを掴むのがおすすめです。
