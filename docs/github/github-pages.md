@@ -20,3 +20,37 @@ GitHub上のJekyllを用いる場合は、一部のプラグインしか使用�
 
 ただし、その場合はMarkdownファイルの編集だけで済まなくなるため、利便性がかなり下がります。
 
+## GitHub Pagesでページの作成
+
+● リポジトリを作成し、masterブランチに「docs/index.md」をcommit、pushします。
+
+● 「Settings」ボタンをクリックし、「GitHub Pages」を開きます。
+
+●  「docs folder」を選択して「Save」をクリックします。
+
+●  上記URLにアクセスすると、Webページが表示されます。
+
+
+## Jekyll(GitHub Pages)のテーマを設定
+
+● 「Settings」ボタンをクリックし、「GitHub Pages」を開きます。
+
+● 「Choose a theme」をクリックするとテーマ選択画面が表示されます。
+好きなテーマを選択し「Select theme」ボタンを押します。
+
+● docsディレクトリ配下にJekyllの設定ファイル「_config.yml」が追加されます。
+
+## Jekyll(GitHub Pages)のプラグインを設定
+
+● Jekyll(GitHub Pages)で使えるプラグインは以下ページに掲載されています。
+
+- [https://pages.github.com/versions/](https://pages.github.com/versions/)
+
+● 例えば、「Jemoji」といプラグインを使う場合は、「_config.yml」に以下のように追記して、commit・pushします。
+
+'''
+plugins:
+– jemoji
+'''
+
+
