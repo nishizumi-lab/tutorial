@@ -56,4 +56,11 @@ plugins:
 – jemoji
 '''
 
+## 関連ページ
+
+
+
+- [GitHub PagesとJekyllについて](https://docs.github.com/ja/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+)
+
 
