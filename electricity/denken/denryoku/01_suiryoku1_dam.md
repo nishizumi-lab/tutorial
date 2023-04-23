@@ -7,10 +7,12 @@
 - **短時間で起動･停止**できる
 - **耐用年数が長い**
 - **エネルギー変換効率が高い**
-- 日本における水力発電の近年の発電電力量の比率は約10％程度。
-- 日本の多くの水力発電所は、水車や発電機の始動・運転・停止などの操作が遠隔監視制御方式で行われ、発電所は無人化されている。
+- 日本における水力発電の近年の発電電力量の比率は**約10％程度**。
+- 日本の多くの水力発電所は、水車や発電機の始動・運転・停止などの操作が**遠隔監視制御方式**で行われ、発電所は**無人化**されている。
 
 ## 落差を得る方法による分類
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGwHtrM9aH63EP6cqV6LUHewYDZzMP8XHdYdBQ3NVQawlSteoDZ0Qz08bBp912wQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 落差を得る方法による水力発電所の分類は以下のとおり。
 
@@ -34,6 +36,7 @@
 
 ## ダムの種類による分類
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLXZlGe_H7ybUKzSObjbRI2_ytzmAwmgiezX7MlVoQmCoU1QTdoxQgX5pjjSUGfA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ダムの|概要
 --|--
@@ -48,6 +51,10 @@
 バットレスダム|水をせき止めるための鉄筋コンクリート製の遮水板と、その遮水板を支える擁壁からなるダム。
 均一型ダム|堤体の大部分が粒の細かい土砂で造られるダムで、高さは30m程度と比較的低いものが造られます。
 試験対策だけなら不要ですが、参考までに以下にダム全般の基礎をまとめているので、よろしければご参照ください。
+
+## 参考動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7k92qwpMNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
 ## 関連リンク
