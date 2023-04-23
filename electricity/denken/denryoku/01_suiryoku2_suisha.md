@@ -45,9 +45,9 @@ $$
 
 ## 参考動画
 
-[!['alt-text']('img-url')]('https://www.youtube.com/embed/kEA3AwFf-OY')
+[![alt-text](img-url)](https://www.youtube.com/embed/kEA3AwFf-OY)
 
-[!['alt-text']('img-url')]('https://www.youtube.com/embed/hxoSf7sEJFg')
+[![alt-text](img-url)](https://www.youtube.com/embed/hxoSf7sEJFg)
 
 
 特に圧力水車(フランシス水車など)や、衝撃水車と比べて文章だけでは仕組みがわかりにくいため、動画などを見てイメージを掴むのがおすすめです。
