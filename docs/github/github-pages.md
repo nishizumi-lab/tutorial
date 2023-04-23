@@ -33,12 +33,11 @@ GitHub上のJekyllを用いる場合は、一部のプラグインしか使用�
 
 ## Jekyll(GitHub Pages)のテーマを設定
 
-● 「Settings」ボタンをクリックし、「GitHub Pages」を開きます。
+● 「docsディレクトリ配下にJekyllの設定ファイル「_config.yml」を作成し、以下のように記載します。
 
-● 「Choose a theme」をクリックするとテーマ選択画面が表示されます。
-好きなテーマを選択し「Select theme」ボタンを押します。
-
-● docsディレクトリ配下にJekyllの設定ファイル「_config.yml」が追加されます。
+'''
+theme: jekyll-theme-modernist
+'''
 
 ## Jekyll(GitHub Pages)のプラグインを設定
 
