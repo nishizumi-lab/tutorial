@@ -1,6 +1,8 @@
 # 水車の種類 
 
-[![alt-text](img-url)](https://docs.google.com/presentation/d/e/2PACX-1vQn4b2x8f0f_vYs6cxVfH4lDekZjPyRNYP6Fg29rqcq1Z2HbS_1xs1cia3zZMQz6g/embed?start=false&amp;loop=false&amp;delayms=3000)
+![水車の種類](01_suiryoku1_dam1.png "水車の種類")
+
+出典:資源エネルギー庁 https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/hydroelectric/mechanism/waterwheel/
 
 
 主な水車の種類は以下のとおり。
