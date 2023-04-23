@@ -31,7 +31,7 @@ GitHub上のJekyllを用いる場合は、一部のプラグインしか使用�
 ●  上記URLにアクセスすると、Webページが表示されます。
 
 
-## Jekyll(GitHub Pages)のテーマを設定
+## Jekyll(GitHub Pages版)のテーマを設定
 
 ● 「docsディレクトリ配下にJekyllの設定ファイル「_config.yml」を作成し、以下のように記載します。
 
@@ -39,7 +39,11 @@ GitHub上のJekyllを用いる場合は、一部のプラグインしか使用�
 theme: jekyll-theme-modernist
 '''
 
-## Jekyll(GitHub Pages)のプラグインを設定
+なお、Jekyll(GitHub Pages版)で利用できるテーマは以下ページに掲載されているもののみになります。
+
+- [https://pages.github.com/themes/](https://pages.github.com/themes/)
+
+## Jekyll(GitHub Pages版)のプラグインを設定
 
 ● Jekyll(GitHub Pages)で使えるプラグインは以下ページに掲載されています。
 
