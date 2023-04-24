@@ -12,6 +12,9 @@
 
 ## ゲーム攻略
 
+- [スマブラSP](./game/smash-bros/minmin.md)
+    - [ミェンミェン](./game/smash-bros/minmin.md)
+
 
 ## 関連ページ
 
