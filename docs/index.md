@@ -14,6 +14,8 @@
 
 - [スマブラSP](./game/smash-bros/minmin.md)
     - [ミェンミェン](./game/smash-bros/minmin.md)
+    - [ホムラ・ヒカリ](./game/smash-bros/homuhika.md)
+    - [ミェンミェン](./game/smash-bros/reflet.md)
 
 
 ## 関連ページ
