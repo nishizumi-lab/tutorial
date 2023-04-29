@@ -17,7 +17,3 @@
     - [ホムラ・ヒカリ](./game/smash-bros/homuhika.md)
     - [ミェンミェン](./game/smash-bros/reflet.md)
 
-
-## 関連ページ
-
-- [https://nishizumi-lab.github.io/tutorial/](https://nishizumi-lab.github.io/tutorial/)
