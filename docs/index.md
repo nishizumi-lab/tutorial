@@ -17,3 +17,9 @@
     - [ホムラ・ヒカリ](./game/smash-bros/homurahikari.md)
     - [ルフレ](./game/smash-bros/reflet.md)
 
+## 旅行
+
+- 兵庫県
+    - [六甲摩耶](./trip/hyogo-rokko-maya.md.md)
+
+
