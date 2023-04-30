@@ -2,8 +2,9 @@
 
 - [Git](./electricity/denken/denken3.md)
     - [Github](./electricity/denken/denken3.md)
-    - [Github PagesでWebサイト構築](./github/github-pages.md)
-
+    - [Github PagesでWebサイト構築](./git/github-pages.md)
+    - [Github PagesでWebサイト構築](./git/pandoc.md)
+    
 ## 資格勉強対策
 
 
