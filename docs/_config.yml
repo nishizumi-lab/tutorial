@@ -1,6 +1,7 @@
 remote-theme: jekyll-text-theme
 title: ほむら研究所
 markdown: kramdown
+highlighter: rouge
 kramdown:
   math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
 
