@@ -38,8 +38,14 @@ $$
 
 ベルヌーイの定理より
 
-$$
-h_A+\frac{p_A}{\rho g}+\frac{v_A^2}{2g}=h_B+\frac{p_B}{\rho g}+\frac{v_B^2}{2g} \\
-30+\frac{24\times10^3}{1000\times 9.8}+\frac{3^2}{2\times 9.8} = 0 + \frac{p_B}{1000 \times 9.8} + \frac{3.629^2}{2\times 9.8} \\
+$
+h_A+\frac{p_A}{\rho g}+\frac{v_A^2}{2g}=h_B+\frac{p_B}{\rho g}+\frac{v_B^2}{2g}
+$
+
+$
+30+\frac{24\times10^3}{1000\times 9.8}+\frac{3^2}{2\times 9.8} = 0 + \frac{p_B}{1000 \times 9.8} + \frac{3.629^2}{2\times 9.8}
+$
+
+$
 p_B = 316000[Pa] = 316[kPa]
-$$
+$
