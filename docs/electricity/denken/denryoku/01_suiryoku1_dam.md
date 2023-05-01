@@ -12,7 +12,8 @@
 
 ## 落差を得る方法による分類
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGwHtrM9aH63EP6cqV6LUHewYDZzMP8XHdYdBQ3NVQawlSteoDZ0Qz08bBp912wQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+![picture 1](01_suiryoku1_dam1.png)  
+
 
 落差を得る方法による水力発電所の分類は以下のとおり。
 
@@ -39,7 +40,7 @@
 
 ## ダムの種類による分類
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLXZlGe_H7ybUKzSObjbRI2_ytzmAwmgiezX7MlVoQmCoU1QTdoxQgX5pjjSUGfA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+![picture 1](01_suiryoku1_dam2.png)  
 
 - 重力式コンクリートダム
     - コンクリート製の**ダム本体の重さ**で水圧を支える。体積が大きくなるが、単純な構造で**日本で最も多いダム**。
