@@ -19,6 +19,7 @@
     - [ミェンミェン](./game/smash-bros/minmin.md)
     - [ホムラ・ヒカリ](./game/smash-bros/homurahikari.md)
     - [ルフレ](./game/smash-bros/reflet.md)
+    - [リンク](./game/smash-bros/link.md)
 
 ## 旅行
 
