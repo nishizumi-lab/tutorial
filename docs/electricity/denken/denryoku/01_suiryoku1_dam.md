@@ -65,7 +65,7 @@
 
 ## 参考動画
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7k92qwpMNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+[![](https://img.youtube.com/vi/K7k92qwpMNo/0.jpg)](https://www.youtube.com/watch?v=K7k92qwpMNo)
 
 
 ## 関連リンク
