@@ -179,8 +179,8 @@
 
 【②の計算方法】
 
- $P_m&=&\frac{9.8Q_pH_p}{\eta_p \eta_m}$
- $Q_p&=&\frac{\eta_p \eta_m}{9.8H_p}P_m = \frac{0.9\cdot 0.98}{9.8\cdot 450}300\times 10^3 = 60[m^3/s]$
+ $P_m=\frac{9.8Q_pH_p}{\eta_p \eta_m}$
+ $Q_p=\frac{\eta_p \eta_m}{9.8H_p}P_m = \frac{0.9\cdot 0.98}{9.8\cdot 450}300\times 10^3 = 60[m^3/s]$
 
 
 ## 関連リンク
