@@ -37,28 +37,26 @@
 
 - 流量(Q=Av)は一定なので、以下の式より流速$v_B$が求まる。
 
- $
-A_Av_A=A_Bv_B
- $
+ $A_Av_A=A_Bv_B$ 
 
- $
+$
 (\pi r_A^2)v_A=(\pi r_B^2)v_B
- $
+$
 
- $
+$
 v_B=\frac{(\pi r_A^2)}{(\pi r_B^2)}v_A=3.629
- $
+$
 
 - ベルヌーイの定理より、圧力$p_B$が求まる。
 
- $
+$
 h_A+\frac{p_A}{\rho g}+\frac{v_A^2}{2g}=h_B+\frac{p_B}{\rho g}+\frac{v_B^2}{2g}
- $
+$
 
- $
+$
 30+\frac{24\times10^3}{1000\times 9.8}+\frac{3^2}{2\times 9.8} = 0 + \frac{p_B}{1000 \times 9.8} + \frac{3.629^2}{2\times 9.8}
- $
+$
 
- $
+$
 p_B = 316000[Pa] = 316[kPa]
- $
+$
