@@ -129,30 +129,22 @@
 
 【解答】
 
-- 有効落差H=H0-hg=388[m]より、発電出力PGは
+- 有効落差 $H=H_0-h_g=388[m]$ より、発電出力$P_G$は以下のとおり。
 
-\begin{eqnarray}
-P_G=9.8Q_GH\eta_G\etaT=9.8\times 60\times 388 \times 0.87 = 198500[kW]
-\end{eqnarray}
+ $P_G=9.8Q_GH\eta_G\etaT=9.8\times 60\times 388 \times 0.87 = 198500[kW]$
 
-- 必要揚程HP=H0+hp=412mより、揚水入力PMは
+- 必要揚程 $H_P=H_0+h_p=412m$ より、揚水入力 $P_M$ は
 
-\begin{eqnarray}
-P_M=\frac{9.8Q_pH_p}{\eta_M\eta_p}=237500[kW]
-\end{eqnarray}
+ $P_M=\frac{9.8Q_pH_p}{\eta_M\eta_p}=237500[kW]$
 
 - 「発電に利用した水量」=「揚水に使用した水量」は等しいため、揚水所要時間TMは、
 
-\begin{eqnarray}
-Q_G \times T_G=Q_p\times 3600 \times T_M\\
-T_M=9.6 [h]
-\end{eqnarray}
+ $Q_G \times T_G=Q_p\times 3600 \times T_M$
+ $T_M=9.6 [h]$ 
 
 - 揚水総合効率$\eta$は、
 
-\begin{eqnarray}
-\eta=\frac{W_G}{W_M}\times 100 =\frac{P_GT_G}{P_MT_M}\times 100=69.6 [%]
-\end{eqnarray}
+ $\eta=\frac{W_G}{W_M}\times 100 =\frac{P_GT_G}{P_MT_M}\times 100=69.6[%]$
 
 ## 【例題】揚水発電所の電力量・流量の計算
 
