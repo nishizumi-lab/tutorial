@@ -131,7 +131,7 @@
 
 - 有効落差 $H=H_0-h_g=388[m]$ より、発電出力$P_G$は以下のとおり。
 
- $P_G=9.8Q_GH\eta_G\etaT=9.8\times 60\times 388 \times 0.87 = 198500[kW]$
+ $P_G=9.8Q_GH\eta_G\eta_T=9.8\times 60\times 388 \times 0.87 = 198500[kW]$
 
 - 必要揚程 $H_P=H_0+h_p=412m$ より、揚水入力 $P_M$ は
 
