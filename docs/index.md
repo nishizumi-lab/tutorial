@@ -28,4 +28,8 @@
 - 兵庫県
     - [六甲摩耶](./trip/hyogo-rokko-maya.md)
 
+## その他
+
+- [プライバシーポリシー](policy.md)
+
 
