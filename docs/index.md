@@ -1,5 +1,6 @@
-## 情報処理
+## 情報処理 入門講座
 
+- [Python](./python/python.md)
 - [Git](./electricity/denken/denken3.md)
     - [Github](./electricity/denken/denken3.md)
     - [Github PagesでWebサイト構築](./git/github-pages.md)
@@ -7,10 +8,10 @@
 - [MacOSX](./macosx/macosx.md)
 - [Windows](./windows/windows.md)
 
-## 資格勉強対策
+## 資格勉強 対策講座
 
 
-- [電験3種](./electricity/denken/denken3.md)
+- [電験3](./electricity/denken/denken3.md)
 - [情報処理技術者試験](./electricity/denken/denken3.md)
 
 ## ゲーム攻略
