@@ -20,6 +20,8 @@
     - [ホムラ・ヒカリ](./game/smash-bros/homurahikari.md)
     - [ルフレ](./game/smash-bros/reflet.md)
     - [リンク](./game/smash-bros/link.md)
+    - [パルテナ](./game/smash-bros/palutena.md)
+
 
 ## 旅行
 
