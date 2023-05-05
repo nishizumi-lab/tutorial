@@ -3,4 +3,4 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
-remote_theme: slee981/jekyll-theme-cadre
+#remote_theme: slee981/jekyll-theme-cadre
