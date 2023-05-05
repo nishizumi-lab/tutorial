@@ -1,6 +1,6 @@
 ## 情報処理 入門講座
 
-- [Python](./python/python-index.md)
+- [Python](./python/index.md)
 - [Git](./electricity/denken/denken3.md)
     - [Github](./electricity/denken/denken3.md)
     - [Github PagesでWebサイト構築](./git/github-pages.md)
