@@ -1,6 +1,6 @@
 title: ほむら研究所
 markdown: kramdown
-highlighter: rouge
+highlighter: monokai
 kramdown:
   math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
 remote_theme: jwrr/minima-sidebar
