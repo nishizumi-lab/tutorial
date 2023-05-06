@@ -3,11 +3,11 @@ markdown: kramdown
 highlighter: monokai
 kramdown:
   math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
-theme: minima
+#theme: minima
 #remote_theme: vsoch/docsy-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-header_pages:
-  - policy.md
+#header_pages:
+#  - policy.md
