@@ -22,13 +22,6 @@ VScodeのPythonプラグインを使うことで効率よく中～大規模な�
 尚、Pythonにはバージョン2と3の2種類がありますが特にこだわりがなければ3をオススメします。
 (詳細は以下記事にまとめています)
 
-https://algorithm.joho.info/programming/python/winpython/
-
-https://algorithm.joho.info/programming/python/anaconda/
-
-
-
-https://algorithm.joho.info/programming/python/vscode-debug-run/
 
 ## WSL
 
