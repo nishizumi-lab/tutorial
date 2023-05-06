@@ -11,8 +11,8 @@
 ## 資格勉強 対策講座
 
 
-- [電験3](./electricity/denken/denken3.md)
-- [情報処理技術者試験](./electricity/denken/denken3.md)
+- [電験3](./electricity/denken/index.md)
+- [情報処理技術者試験](./electricity/denken/index.md)
 
 ## ゲーム攻略
 
