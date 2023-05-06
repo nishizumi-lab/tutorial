@@ -5,5 +5,9 @@ kramdown:
   math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
 theme: minima
 #remote_theme: vsoch/docsy-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-
+header_pages:
+  - policy.md
