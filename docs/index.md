@@ -6,12 +6,12 @@
     - [Github PagesでWebサイト構築](./git/github-pages.md)
     - [Github PagesでWebサイト構築](./git/pandoc.md)
 - [MacOSX](./macosx/macosx.md)
-- [Windows](./windows/windows.md)
+- [Windows](./windows/index.md)
 
 ## 資格勉強 対策講座
 
 
-- [電験3](./electricity/denken/index.md)
+- [電験3種](./electricity/denken/index.md)
 - [情報処理技術者試験](./electricity/denken/index.md)
 
 ## ゲーム攻略
@@ -29,6 +29,11 @@
 
 - 兵庫県
     - [六甲摩耶](./trip/hyogo-rokko-maya.md)
+
+## 乗り物
+
+- [自動車](./car/index.md)
+- [自転車](./bicycle/index.md)
 
 ## その他
 
