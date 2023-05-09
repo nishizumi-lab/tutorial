@@ -19,7 +19,8 @@
     - NBコンボで％稼ぎ
         - NB(微チャージ) → DAが繋がる。
     - 崖に追い出したら、崖ボムで％稼ぎ。崖ボムを意識させたら、飛び出して復帰阻止。
-    - 崖端の相手には、空後で早期撃墜を狙ってみる。
+    - 崖端の相手には、「空後」や「*横B→空下(メテオ)*」で早期撃墜を狙ってみる。
+    - 横B(ミサイル) → チャージショットでガードが割れる
 - 終盤 （相手が高％）の立ち回り
     - 「DA」「上投げ」「NB(最大手前チャージショット)」「空前」「空後」などでバーストを狙っていく。
         - 飛び道具でジャンプしたら、「空前」「空後」でバースト。
@@ -109,3 +110,18 @@
 [![](https://img.youtube.com/vi/OM0A1OZSZOE/0.jpg)](https://www.youtube.com/watch?v=OM0A1OZSZOE)
 
 [![](https://img.youtube.com/vi/AEpT_3fY9kU/0.jpg)](https://www.youtube.com/watch?v=AEpT_3fY9kU)
+
+【初心者必見】即VIPいけるサムスの即死コンボ3選！【スマブラSP】
+[![](https://img.youtube.com/vi/rWtydDzefY4&t/0.jpg)](https://www.youtube.com/watch?v=rWtydDzefY4&t)
+
+【解説】 VIP行きたいならこれを見ないと損 サムスのテクニック10選|スマブラSP
+[![](https://img.youtube.com/vi/pdtNjXm-owo/0.jpg)](https://www.youtube.com/watch?v=pdtNjXm-owo)
+
+上手くなるためのポイント教えます！サムス/ダークサムスの崖待ち講座|スマブラSP
+[![](https://img.youtube.com/vi/VStnh4a957U/0.jpg)](https://www.youtube.com/watch?v=VStnh4a957U)
+
+【スマブラSP】弾キャラの代名詞、サムス初心者向け解説！【Part1/2】
+[![](https://img.youtube.com/vi/X5SNImnqImc/0.jpg)](https://www.youtube.com/watch?v=X5SNImnqImc)
+
+【スマブラSP】最恐の崖攻めを使いこなそう！サムス徹底解説！【Part2/2】
+[![](https://img.youtube.com/vi/h0A3KTkbDaQ/0.jpg)](https://www.youtube.com/watch?v=h0A3KTkbDaQ)
