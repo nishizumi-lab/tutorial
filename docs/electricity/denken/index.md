@@ -1,5 +1,8 @@
 # 電験3種の試験対策(初心者向け)
 
+- [試験概要(公式HP)](https://www.shiken.or.jp/examination/e-chief03.html)
+- [試験日程(公式HP)](https://www.shiken.or.jp/schedule/)
+
 ## 理論分野
 
 
