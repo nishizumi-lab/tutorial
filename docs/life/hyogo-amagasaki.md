@@ -1,6 +1,9 @@
+# 尼崎市の生活情報
 
 ## 医療福祉
 
+- [医療費の助成](https://www.city.amagasaki.hyogo.jp/kurashi/kenko/josei/index.html)
+    - 尼崎市の医療費助成ページ。ただし、掲載されていないものもある。
 - [風しん抗体検査](https://www.city.amagasaki.hyogo.jp/kurashi/kenko/kensin/1003315.html)
     - (2023年5月現在)対象者は無料、火〜金曜日のみ、場所は保健所、2日前から電話予約
 - [ピロリ菌・胃がんリスク検査](https://faq.city.amagasaki.hyogo.jp/faq/detail.aspx?id=1903713)
