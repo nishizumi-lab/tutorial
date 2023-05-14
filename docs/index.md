@@ -24,6 +24,10 @@
     - [パルテナ](./game/smash-bros/palutena.md)
     - [サムス・ダークサムス](./game/smash-bros/samus.md)
 
+## 生活情報
+
+- 兵庫県
+    - [尼崎市](./life/hyogo-amagasaki.md)
 
 ## 旅行
 
