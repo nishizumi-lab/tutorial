@@ -28,6 +28,7 @@
 
 - 兵庫県
     - [尼崎市](./life/hyogo-amagasaki.md)
+- [不妊治療](./life/infertility_treatment.md)
 
 ## 旅行
 
