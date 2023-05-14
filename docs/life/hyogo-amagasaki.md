@@ -1,5 +1,10 @@
 # 尼崎市の生活情報
 
+## 買い物
+
+- [電子地域通貨「あま咲きコイン」について](https://www.city.amagasaki.hyogo.jp/kurashi/siminsanka/1022002/1024632/index.html)
+
+
 ## 医療福祉
 
 - [医療費の助成](https://www.city.amagasaki.hyogo.jp/kurashi/kenko/josei/index.html)
