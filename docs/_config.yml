@@ -8,6 +8,6 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+google_analytics: G-YD4B1NB2TP
 #header_pages:
 #  - policy.md
