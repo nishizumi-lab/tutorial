@@ -1,18 +1,19 @@
-## 情報処理 入門講座
+## 工学 情報処理、電気
 
-- [Python](./python/index.md)
+- プログラミング
+    - [Python](./python/index.md)
+- ソフトウェア
 - [Git](./git/index.md)
 - [Markdown入門](./git/markdown.md)
 - [VSCode](./vscode/index.md)
 - [MacOSX](./macosx/index.md)
 - [Windows](./windows/index.md)
-
-## 資格勉強 対策講座
-
-
-- [電験3種](./electricity/denken/index.md)
-- [情報処理技術者試験](./it/index.md)
-
+- 情報工学
+    - [情報処理技術者試験](./it/index.md)
+- 電気電子工学
+    - [電験3種](./electricity/denken/index.md)
+    - [太陽電池発電所](./solar/index.md)
+    
 ## ゲーム攻略
 
 - [スマブラSP](./game/smash-bros/minmin.md)
