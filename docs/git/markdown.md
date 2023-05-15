@@ -85,7 +85,6 @@
 
 ```
 ｀｀｀
-# 標準出力
 print("コードブロックのサンプルです")
 ｀｀｀
 ```
@@ -93,11 +92,12 @@ print("コードブロックのサンプルです")
 
 【実行結果】
 
-```# 標準出力
+```
 print("コードブロックのサンプルです")
 ```
 
 ## 画像(imgタグ)
+
 
 画像ファイルの表示は以下のコードで表示できます。
 
@@ -114,18 +114,14 @@ print("コードブロックのサンプルです")
 
 【サンプルコード】
 ```
-①インストールコマンドは `pip install opencv-python` です
+①emタグ インストールコマンドは *pip install opencv-python* です
 
-②emタグ インストールコマンドは *pip install opencv-python* です
-
-③strongタグ インストールコマンドは **pip install opencv-python** です
+②strongタグ インストールコマンドは **pip install opencv-python** です
 ```
 
 【実行結果】
 
-①インストールコマンドは `pip install opencv-python` です
- 
-②インストールコマンドは *pip install opencv-python* です
+①emタグ インストールコマンドは *pip install opencv-python* です
 
-③インストールコマンドは **pip install opencv-python** です
+②strongタグ インストールコマンドは **pip install opencv-python** です
 
