@@ -3,6 +3,9 @@ markdown: kramdown
 highlighter: monokai
 kramdown:
   math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dark
+locale: ja-JP
 #theme: minima
 #remote_theme: vsoch/docsy-jekyll
 plugins:
