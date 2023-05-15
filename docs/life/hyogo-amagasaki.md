@@ -4,6 +4,13 @@
 
 - [電子地域通貨「あま咲きコイン」について](https://www.city.amagasaki.hyogo.jp/kurashi/siminsanka/1022002/1024632/index.html)
 
+## 環境
+
+- PFAS汚染
+    - PFAS（ピーファス）は、有機フッ素化合物の総称。
+    - [“PFAS汚染”全国マップ　指針値超え地点　すべて掲載(NHK)](https://www.nhk.jp/p/gendai/ts/R7Y6NGLJ6G/blog/bl/pkEldmVQ6R/bp/pyD6dG2wOM/)
+        - 上記調査によると、 尼崎市は73〜332と指針値超えであるとのこと。
+
 
 ## 医療福祉
 
