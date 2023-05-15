@@ -2,7 +2,8 @@
 
 - [Python](./python/index.md)
 - [Git](./git/index.md)
-- [vscode](./vscode/index.md)
+- [Markdown入門](./git/markdown.md)
+- [VSCode](./vscode/index.md)
 - [MacOSX](./macosx/index.md)
 - [Windows](./windows/index.md)
 

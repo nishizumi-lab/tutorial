@@ -3,4 +3,6 @@
 ## GitHub
 
 - [VScodeでGitHub上のリモートリポジトリを操作](../vscode/vscode-github.md)
+github-pages.md)
+- [Markdownのコマンド集](./markdown.md)
 - [Github PagesでWebサイト構築](./github-pages.md)
