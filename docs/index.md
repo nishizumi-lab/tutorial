@@ -1,10 +1,8 @@
 ## 情報処理 入門講座
 
 - [Python](./python/index.md)
-- [Git](./electricity/denken/denken3.md)
-    - [Github](./electricity/denken/denken3.md)
-    - [Github PagesでWebサイト構築](./git/github-pages.md)
-    - [Github PagesでWebサイト構築](./git/pandoc.md)
+- [Git](./git/index.md)
+- [vscode](./vscode/index.md)
 - [MacOSX](./macosx/index.md)
 - [Windows](./windows/index.md)
 
