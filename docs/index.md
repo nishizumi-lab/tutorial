@@ -11,7 +11,7 @@
 
 
 - [電験3種](./electricity/denken/index.md)
-- [情報処理技術者試験](./electricity/denken/index.md)
+- [情報処理技術者試験](./it/index.md)
 
 ## ゲーム攻略
 
