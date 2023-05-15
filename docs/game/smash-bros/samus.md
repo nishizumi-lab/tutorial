@@ -125,3 +125,7 @@
 
 【スマブラSP】最恐の崖攻めを使いこなそう！サムス徹底解説！【Part2/2】
 [![](https://img.youtube.com/vi/h0A3KTkbDaQ/0.jpg)](https://www.youtube.com/watch?v=h0A3KTkbDaQ)
+
+
+【スマブラSP】目指せＶＩＰ上位！サムス解説動画 ステップアップ編！
+[![](https://img.youtube.com/vi/5RACmRYT0W0/0.jpg)](https://www.youtube.com/watch?v=5RACmRYT0W0)
