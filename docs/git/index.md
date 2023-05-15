@@ -3,4 +3,4 @@
 ## GitHub
 
 - [VScodeでGitHub上のリモートリポジトリを操作](../vscode/vscode-github.md)
-- [Github PagesでWebサイト構築](./git/github-pages.md)
+- [Github PagesでWebサイト構築](./github-pages.md)
