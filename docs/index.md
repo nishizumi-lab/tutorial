@@ -1,13 +1,20 @@
 ## 工学 情報処理、電気
 
 - プログラミング
-    - [Python](./python/index.md)
+    - 言語
+        - [Python](./python/index.md)
+    - ソースコード管理
+        - [Git/Github](./git/index.md)
 - ソフトウェア
-    - [Git/Github](./git/index.md)
-    - [Markdown](./git/markdown.md)
-    - [VSCode](./vscode/index.md)
-    - [MacOSX](./macosx/index.md)
-    - [Windows](./windows/index.md)
+    - OS
+        - [MacOSX](./macosx/index.md)
+        - [Windows](./windows/index.md)
+    - テキストエディタ
+        - [VSCode](./vscode/index.md)
+    - 文書作成
+        - [Markdown](./git/markdown.md)
+    - お絵かき
+        - [Clip Studio](./clipstudio/index.md)
 - 情報工学
     - [情報処理技術者試験](./it/index.md)
 - 電気電子工学
