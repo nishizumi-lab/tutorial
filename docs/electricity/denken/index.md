@@ -14,6 +14,7 @@
     - [水車の種類](./denryoku/01_suiryoku2_suisha.md)
     - [水力学(ベルヌーイの定理)](./denryoku/01_suiryoku3_suirikigaku.md)
 - 火力発電所
+    - [火力発電所の種類](./denryoku/02_karyoku1_shurui.md)
 - 新エネルギー発電所
     - 原子力発電所
     - 太陽電池発電所
