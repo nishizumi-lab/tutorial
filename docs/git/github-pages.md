@@ -39,9 +39,12 @@ GitHub上のJekyllを用いる場合は、一部のプラグインしか使用�
 theme: jekyll-theme-modernist
 ```
 
-なお、Jekyll(GitHub Pages版)で利用できるテーマは以下ページに掲載されているもののみになります。
+なお、GitHub Pages版Jekyllで利用できるテーマは以下ページに掲載されているものです。
+テーマを適用していない場合、Primer がデフォルトテーマとして適用されます。
 
 - [https://pages.github.com/themes/](https://pages.github.com/themes/)
+
+なお、リモートテーマも利用できますが、GitHub Pages版Jekyllだと表示がおかしくなることが多いです。
 
 ## Jekyll(GitHub Pages版)のプラグインを設定
 
