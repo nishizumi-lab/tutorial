@@ -1,19 +1,15 @@
 title: 技術屋メモ
-markdown: kramdown
-highlighter: monokai
-kramdown:
-  math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
-
-#theme: minima
-#remote_theme: vsoch/docsy-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-google_analytics: G-YD4B1NB2TP
+#google_analytics: G-YD4B1NB2TP
 #header_pages:
 #  - policy.md
 
 #theme: minimal-mistakes-jekyll
 #minimal_mistakes_skin: dark
 #locale: ja-JP
+
+#theme: minima
+#remote_theme: vsoch/docsy-jekyll
