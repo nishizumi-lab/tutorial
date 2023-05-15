@@ -129,3 +129,12 @@
 
 【スマブラSP】目指せＶＩＰ上位！サムス解説動画 ステップアップ編！
 [![](https://img.youtube.com/vi/5RACmRYT0W0/0.jpg)](https://www.youtube.com/watch?v=5RACmRYT0W0)
+
+3分でわかるVIPサムスの作り方- 初心者のための全キャラVIP企画 〜サムス編〜【スマブラ SP】
+[![](https://img.youtube.com/vi/YgF286l11o4/0.jpg)](https://www.youtube.com/watch?v=YgF286l11o4)
+
+【即死コンボ】サムス/ダークサムスで即VIP行くための上級技全て教えます|スマブラSP
+[![](https://img.youtube.com/vi/oFh1dlcSUss/0.jpg)](https://www.youtube.com/watch?v=oFh1dlcSUss)
+
+1分ちょっとでわかる_猿でも勝てるサムス_ダークサムス対策【スマブラSP】
+[![](https://img.youtube.com/vi/2UgrVIRnOyw/0.jpg)](https://www.youtube.com/watch?v=2UgrVIRnOyw)
