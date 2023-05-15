@@ -12,7 +12,9 @@
     - [情報処理技術者試験](./it/index.md)
 - 電気電子工学
     - [電験3種](./electricity/denken/index.md)
-    - [太陽電池発電所](./solar/index.md)
+    - [太陽電池発電所](./electricity/solar/index.md)
+- 
+
 
 ## ゲーム攻略
 
