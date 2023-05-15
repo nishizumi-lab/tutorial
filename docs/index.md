@@ -3,8 +3,8 @@
 - プログラミング
     - [Python](./python/index.md)
 - ソフトウェア
-- [Git](./git/index.md)
-- [Markdown入門](./git/markdown.md)
+- [Git/Github](./git/index.md)
+- [Markdown](./git/markdown.md)
 - [VSCode](./vscode/index.md)
 - [MacOSX](./macosx/index.md)
 - [Windows](./windows/index.md)
@@ -13,7 +13,7 @@
 - 電気電子工学
     - [電験3種](./electricity/denken/index.md)
     - [太陽電池発電所](./solar/index.md)
-    
+
 ## ゲーム攻略
 
 - [スマブラSP](./game/smash-bros/minmin.md)
