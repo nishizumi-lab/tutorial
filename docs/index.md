@@ -5,7 +5,7 @@
     - [Github](./electricity/denken/denken3.md)
     - [Github PagesでWebサイト構築](./git/github-pages.md)
     - [Github PagesでWebサイト構築](./git/pandoc.md)
-- [MacOSX](./macosx/macosx.md)
+- [MacOSX](./macosx/index.md)
 - [Windows](./windows/index.md)
 
 ## 資格勉強 対策講座
