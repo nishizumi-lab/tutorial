@@ -3,11 +3,11 @@
 - プログラミング
     - [Python](./python/index.md)
 - ソフトウェア
-- [Git/Github](./git/index.md)
-- [Markdown](./git/markdown.md)
-- [VSCode](./vscode/index.md)
-- [MacOSX](./macosx/index.md)
-- [Windows](./windows/index.md)
+    - [Git/Github](./git/index.md)
+    - [Markdown](./git/markdown.md)
+    - [VSCode](./vscode/index.md)
+    - [MacOSX](./macosx/index.md)
+    - [Windows](./windows/index.md)
 - 情報工学
     - [情報処理技術者試験](./it/index.md)
 - 電気電子工学
