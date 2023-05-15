@@ -6,3 +6,4 @@
 github-pages.md)
 - [Markdownのコマンド集](./markdown.md)
 - [Github PagesでWebサイト構築](./github-pages.md)
+- [.DS_Storeを削除](./delete-ds_store.md)
