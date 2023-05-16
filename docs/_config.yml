@@ -1,8 +1,5 @@
 title: 技術屋メモ
-remote_theme           : "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+remote_theme: "mmistakes/minimal-mistakes"
 #google_analytics: G-YD4B1NB2TP
 #header_pages:
 #  - policy.md
