@@ -1,4 +1,6 @@
 <link rel="shortcut icon" href="./assets/image/favicon.ico">
+
+<!-- katex -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css"
     integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js"
@@ -28,7 +30,7 @@
     gtag('config', 'G-YD4B1NB2TP');
 </script>
 
-
+<!-- create table-of-content  -->
 <script>
     document.addEventListener('DOMContentLoaded', () => {
         const heads = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
@@ -54,32 +56,34 @@
 
 
 <style>
-    .markdown-body img {
+    #main-content img {
         max-width: 600px;
         box-shadow: 0 0 8px gray;
     }
 
-    strong {
+    #main-content strong {
         color: rgba(255, 0, 0, 0.801);
         font-weight: 800;
     }
 
-    em {
+    #main-content em {
         background: #FFF9C4;
     }
 
-    li {
-    list-style: none;
-}
-a {
-    text-decoration: none;
-}
+    #table-of-content li {
+        list-style: none;
+    }
 
-.contents2 {
-    margin-left: 0px;
-}
-.contents3 {
-    margin-left: 15px;
-}
+    #table-of-content a {
+        text-decoration: none;
+        font-size: 13px;
+    }
 
+    #table-of-content .contents2 {
+        margin-left: 0px;
+    }
+
+    #table-of-content .contents3 {
+        margin-left: 15px;
+    }
 </style>
