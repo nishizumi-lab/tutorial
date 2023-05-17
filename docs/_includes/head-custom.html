@@ -29,6 +29,30 @@
 </script>
 
 
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const heads = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        if (heads && heads.length) {
+            let contents = '';
+            heads.forEach((head, i) => {
+                let className = '';
+                switch (head.localName) {
+                    case "h2":
+                        className = `contents2`;
+                        break;
+                    case "h3":
+                        className = `contents3`;
+                        break;
+                }
+                contents += `<li><a class="${className}" href="#head${i}">${head.textContent}</a></li>`;
+                head.innerHTML += `<a id="head${i}"></a>`;
+            })
+            document.querySelector('#table-of-content').innerHTML += `<ol>${contents}</ol>`;
+        }
+    });
+</script>
+
+
 <style>
     .markdown-body img {
         max-width: 600px;
@@ -44,48 +68,18 @@
         background: #FFF9C4;
     }
 
-    #toc {
-        max-width: 500px;
-        border: 2px solid rgba(0, 0, 0, .1);
-        margin: 2em auto;
-    }
+    li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
 
-    .toc-title {
-        color: #444;
-        padding: .5em 1em;
-    }
+.contents2 {
+    margin-left: 0px;
+}
+.contents3 {
+    margin-left: 15px;
+}
 
-    .toc-container {
-        padding: 1em !important;
-        margin: 0 !important;
-    }
-
-    .toc-container,
-    .toc-container ul {
-        counter-reset: ul-counter;
-        list-style: none;
-    }
-
-    .toc-container li a {
-        display: flex;
-        color: #444 !important;
-    }
-
-    .toc-container li a:before {
-        counter-increment: ul-counter;
-        content: counters(ul-counter, ".");
-        color: dodgerblue;
-        /* お好みの色 */
-        padding-right: .5em;
-        white-space: nowrap;
-    }
-
-    #toc .toc-title:after {
-        content: '[ひらく]';
-        margin-left: .5em;
-    }
-
-    #toc[open] .toc-title:after {
-        content: '[とじる]';
-    }
 </style>
