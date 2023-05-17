@@ -50,10 +50,12 @@
     <script>
         (function(window, document) {
           const toc = document.getElementById('toc');
+          /*
           const selector = document.querySelector('.post-body'); // 処理対象セレクタ
           if (!toc || !selector) {
             return
           }
+          */
           const list = document.createElement('ul');
           list.className = 'toc-container';
           toc.appendChild(list);
@@ -98,7 +100,7 @@
           });
         }(window, document));
         </script>
-        
+
 </body>
 
 </html>
