@@ -56,6 +56,26 @@
 
 
 <style>
+    #main-content {
+        width: 70% !important;
+        
+    }
+
+    aside#sidebar {
+        width: 30% !important;
+        padding-left: 8px !important;
+    }
+
+    @media only screen and (max-width: 959px) {
+        #main-content {
+            width: 100% !important;
+        }
+
+        aside#sidebar {
+            width: 100% !important;
+        }
+    }
+
     #main-content img {
         max-width: 600px;
         box-shadow: 0 0 8px gray;
@@ -69,7 +89,8 @@
     #main-content em {
         background: #FFF9C4;
     }
-    #table-of-content{
+
+    #table-of-content {
         position: sticky;
     }
 
@@ -78,8 +99,8 @@
     }
 
     #table-of-content ol {
-        padding-top:7px;
-        padding-bottom:7px;
+        padding-top: 7px;
+        padding-bottom: 7px;
         list-style-type: decimal;
     }
 
