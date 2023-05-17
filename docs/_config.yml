@@ -1,9 +1,11 @@
 title: 技術屋メモ
-#remote_theme: pages-themes/architect@v0.2.0
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: pages-themes/architect@v0.2.0
+google_analytics: G-YD4B1NB2TP
+show_downloads: false
 plugins:
   - jekyll-remote-theme
 #theme: minimal-mistakes-jekyll
+#remote_theme: mmistakes/minimal-mistakes
 #remote_theme: "mmistakes/minimal-mistakes"
 #google_analytics: G-YD4B1NB2TP
 #header_pages:
