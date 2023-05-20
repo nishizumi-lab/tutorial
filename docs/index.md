@@ -1,26 +1,29 @@
-## 工学 情報処理、電気
+## プログラミング
 
-- プログラミング
-    - 言語
-        - [Python](./python/index.md)
-    - ソースコード管理
-        - [Git/Github](./git/index.md)
-- ソフトウェア
-    - OS
-        - [MacOSX](./macosx/index.md)
-        - [Windows](./windows/index.md)
-    - テキストエディタ
-        - [VSCode](./vscode/index.md)
-    - 文書作成
-        - [Markdown](./git/markdown.md)
-    - お絵かき
-        - [Clip Studio](./clipstudio/index.md)
-- 情報工学
-    - [情報処理技術者試験](./it/index.md)
-- 電気電子工学
-    - [電験3種](./electricity/denken/index.md)
-    - [太陽電池発電所](./electricity/solar/index.md)
-- 
+- [Python](./python/index.md)
+- ソースコード管理
+    - [Git/Github](./git/index.md)
+- テキストエディタ
+    - [VSCode](./vscode/index.md)
+
+## ソフトウェア
+
+- [MacOSX](./macosx/index.md)
+- [Windows](./windows/index.md)
+- 文書作成
+    - [Markdown](./git/markdown.md)
+- お絵かき
+    - [Clip Studio](./clipstudio/index.md)
+
+## 情報工学
+
+- [情報処理技術者試験](./it/index.md)
+
+## 電気電子工学
+
+- [電験3種](./electricity/denken/index.md)
+- [太陽電池発電所](./electricity/solar/index.md)
+
 
 
 ## ゲーム攻略
@@ -33,16 +36,12 @@
     - [パルテナ](./game/smash-bros/palutena.md)
     - [サムス・ダークサムス](./game/smash-bros/samus.md)
 
-## 生活情報
+## 生活情報・旅行
 
 - 兵庫県
     - [尼崎市](./life/hyogo-amagasaki.md)
-- [不妊治療](./life/infertility_treatment.md)
-
-## 旅行
-
-- 兵庫県
     - [六甲摩耶](./trip/hyogo-rokko-maya.md)
+- [不妊治療](./life/infertility_treatment.md)
 
 ## 乗り物
 
