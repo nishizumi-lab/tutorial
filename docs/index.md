@@ -48,7 +48,10 @@
     - [尼崎市](./life/hyogo-amagasaki.md)
     - [六甲摩耶](./trip/hyogo-rokko-maya.md)
 - [不妊治療](./life/infertility_treatment.md)
-
+- 教養
+    - [ペン習字](./life/penmanship.md)
+    - [タイピング・ブラインドタッチ](./lifetyping-blind-touch.md)
+    
 ## 乗り物
 
 - [自動車](./car/index.md)
