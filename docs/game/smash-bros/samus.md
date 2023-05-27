@@ -112,36 +112,24 @@
 
 ## 参考動画
 
-[![](https://img.youtube.com/vi/FBLI7AznzIU/0.jpg)](https://www.youtube.com/watch?v=FBLI7AznzIU)
-
-[![](https://img.youtube.com/vi/OM0A1OZSZOE/0.jpg)](https://www.youtube.com/watch?v=OM0A1OZSZOE)
-
-[![](https://img.youtube.com/vi/AEpT_3fY9kU/0.jpg)](https://www.youtube.com/watch?v=AEpT_3fY9kU)
-
-【初心者必見】即VIPいけるサムスの即死コンボ3選！【スマブラSP】
-[![](https://img.youtube.com/vi/rWtydDzefY4/0.jpg)](https://www.youtube.com/watch?v=rWtydDzefY4)
-
-【解説】 VIP行きたいならこれを見ないと損 サムスのテクニック10選|スマブラSP
-[![](https://img.youtube.com/vi/pdtNjXm-owo/0.jpg)](https://www.youtube.com/watch?v=pdtNjXm-owo)
-
-上手くなるためのポイント教えます！サムス/ダークサムスの崖待ち講座|スマブラSP
-[![](https://img.youtube.com/vi/VStnh4a957U/0.jpg)](https://www.youtube.com/watch?v=VStnh4a957U)
-
-【スマブラSP】弾キャラの代名詞、サムス初心者向け解説！【Part1/2】
-[![](https://img.youtube.com/vi/X5SNImnqImc/0.jpg)](https://www.youtube.com/watch?v=X5SNImnqImc)
-
-【スマブラSP】最恐の崖攻めを使いこなそう！サムス徹底解説！【Part2/2】
-[![](https://img.youtube.com/vi/h0A3KTkbDaQ/0.jpg)](https://www.youtube.com/watch?v=h0A3KTkbDaQ)
-
-
-【スマブラSP】目指せＶＩＰ上位！サムス解説動画 ステップアップ編！
-[![](https://img.youtube.com/vi/5RACmRYT0W0/0.jpg)](https://www.youtube.com/watch?v=5RACmRYT0W0)
-
-3分でわかるVIPサムスの作り方- 初心者のための全キャラVIP企画 〜サムス編〜【スマブラ SP】
-[![](https://img.youtube.com/vi/YgF286l11o4/0.jpg)](https://www.youtube.com/watch?v=YgF286l11o4)
-
-【即死コンボ】サムス/ダークサムスで即VIP行くための上級技全て教えます|スマブラSP
-[![](https://img.youtube.com/vi/oFh1dlcSUss/0.jpg)](https://www.youtube.com/watch?v=oFh1dlcSUss)
-
-1分ちょっとでわかる_猿でも勝てるサムス_ダークサムス対策【スマブラSP】
-[![](https://img.youtube.com/vi/2UgrVIRnOyw/0.jpg)](https://www.youtube.com/watch?v=2UgrVIRnOyw)
+- [![](https://img.youtube.com/vi/FBLI7AznzIU/0.jpg)](https://www.youtube.com/watch?v=FBLI7AznzIU)
+- [![](https://img.youtube.com/vi/OM0A1OZSZOE/0.jpg)](https://www.youtube.com/watch?v=OM0A1OZSZOE)
+- [![](https://img.youtube.com/vi/AEpT_3fY9kU/0.jpg)](https://www.youtube.com/watch?v=AEpT_3fY9kU)
+- 【初心者必見】即VIPいけるサムスの即死コンボ3選！【スマブラSP】
+    - [![](https://img.youtube.com/vi/rWtydDzefY4/0.jpg)](https://www.youtube.com/watch?v=rWtydDzefY4)
+- 【解説】 VIP行きたいならこれを見ないと損 サムスのテクニック10選|スマブラSP
+    - [![](https://img.youtube.com/vi/pdtNjXm-owo/0.jpg)](https://www.youtube.com/watch?v=pdtNjXm-owo)
+- 上手くなるためのポイント教えます！サムス/ダークサムスの崖待ち講座|スマブラSP
+    - [![](https://img.youtube.com/vi/VStnh4a957U/0.jpg)](https://www.youtube.com/watch?v=VStnh4a957U)
+- 【スマブラSP】弾キャラの代名詞、サムス初心者向け解説！【Part1/2】
+    - [![](https://img.youtube.com/vi/X5SNImnqImc/0.jpg)](https://www.youtube.com/watch?v=X5SNImnqImc)
+- 【スマブラSP】最恐の崖攻めを使いこなそう！サムス徹底解説！【Part2/2】
+    - [![](https://img.youtube.com/vi/h0A3KTkbDaQ/0.jpg)](https://www.youtube.com/watch?v=h0A3KTkbDaQ)
+- 【スマブラSP】目指せＶＩＰ上位！サムス解説動画 ステップアップ編！
+    - [![](https://img.youtube.com/vi/5RACmRYT0W0/0.jpg)](https://www.youtube.com/watch?v=5RACmRYT0W0)
+- 3分でわかるVIPサムスの作り方- 初心者のための全キャラVIP企画 〜サムス編〜【スマブラ SP】
+    - [![](https://img.youtube.com/vi/YgF286l11o4/0.jpg)](https://www.youtube.com/watch?v=YgF286l11o4)
+- 【即死コンボ】サムス/ダークサムスで即VIP行くための上級技全て教えます|スマブラSP
+    - [![](https://img.youtube.com/vi/oFh1dlcSUss/0.jpg)](https://www.youtube.com/watch?v=oFh1dlcSUss)
+- 1分ちょっとでわかる_猿でも勝てるサムス_ダークサムス対策【スマブラSP】
+    - [![](https://img.youtube.com/vi/2UgrVIRnOyw/0.jpg)](https://www.youtube.com/watch?v=2UgrVIRnOyw)
