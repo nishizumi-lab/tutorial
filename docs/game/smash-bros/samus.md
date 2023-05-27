@@ -112,7 +112,7 @@
 [![](https://img.youtube.com/vi/AEpT_3fY9kU/0.jpg)](https://www.youtube.com/watch?v=AEpT_3fY9kU)
 
 【初心者必見】即VIPいけるサムスの即死コンボ3選！【スマブラSP】
-[![](https://img.youtube.com/vi/rWtydDzefY4&t/0.jpg)](https://www.youtube.com/watch?v=rWtydDzefY4&t)
+[![](https://img.youtube.com/vi/rWtydDzefY4/0.jpg)](https://www.youtube.com/watch?v=rWtydDzefY4)
 
 【解説】 VIP行きたいならこれを見ないと損 サムスのテクニック10選|スマブラSP
 [![](https://img.youtube.com/vi/pdtNjXm-owo/0.jpg)](https://www.youtube.com/watch?v=pdtNjXm-owo)
