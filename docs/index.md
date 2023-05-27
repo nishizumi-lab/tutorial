@@ -5,7 +5,8 @@
     - [Git/Github](./git/index.md)
 - テキストエディタ
     - [VSCode](./vscode/index.md)
-
+        -  [VSCode](./vscode/vim.md)
+        
 ## ソフトウェア
 
 - [MacOSX](./macosx/index.md)
@@ -51,7 +52,7 @@
 - 教養
     - [ペン習字](./life/penmanship.md)
     - [タイピング・ブラインドタッチ](./lifetyping-blind-touch.md)
-    
+
 ## 乗り物
 
 - [自動車](./car/index.md)
