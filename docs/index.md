@@ -5,7 +5,7 @@
     - [Git/Github](./git/index.md)
 - テキストエディタ
     - [VSCode](./vscode/index.md)
-        -  [VSCode](./vscode/vim.md)
+        -  [VSCodeでVimを使う](./vscode/vscode-vim.md)
         
 ## ソフトウェア
 
