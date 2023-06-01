@@ -276,3 +276,8 @@ Ps=(1-L)Pg=0.95×53000=50350
 
 初心者向け電験三種・電力・10・復水器損失【超簡単に学ぶ！】第三種電気主任技術者
  [![](https://img.youtube.com/vi/F03EP9Snf2g/0.jpg)](https://www.youtube.com/watch?v=F03EP9Snf2g)
+
+ ## 関連リンク
+
+- [電験3種試験対策トップページ](../index.md)
+- [トップページ](../../../index.md)
