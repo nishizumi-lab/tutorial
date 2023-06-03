@@ -51,7 +51,7 @@
 - [不妊治療](./life/infertility_treatment.md)
 - 教養
     - [ペン習字](./life/penmanship.md)
-    - [タイピング・ブラインドタッチ](./lifetyping-blind-touch.md)
+    - [タイピング・ブラインドタッチ](./life/typing-blind-touch.md)
 
 ## 乗り物
 
