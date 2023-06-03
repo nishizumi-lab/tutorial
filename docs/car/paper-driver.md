@@ -22,6 +22,8 @@
         - タイヤを真っ直ぐにし、ハンドルを少しずつ回しながらバックし、青丸の場所に車を寄せていく
         - 青丸の付近に車の後端が差し掛かったらハンドルを回しきる
         - 車体が駐車スペースの線と平行になったら、タイヤを真っ直ぐに戻してバック
+- 狭い場所で駐車をする方法【プロの指導員が解説】
+    - [![](https://img.youtube.com/vi/_iTyKzwvyv4/0.jpg)](https://www.youtube.com/watch?v=_iTyKzwvyv4)
 - 【パニック解消！】駐車で失敗をした時の対処法
     - [![](https://img.youtube.com/vi/WTbiWeD7KMM/0.jpg)](https://www.youtube.com/watch?v=WTbiWeD7KMM)
 - 【駐車が上達しない原因】とめやすい駐車スペースの選び方
