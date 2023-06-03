@@ -1,8 +1,18 @@
 
+## 車両感覚
+
+- 車体感覚のつかみ方のコツ5選《初心者ペーパードライバー必見》
+    - [![](https://img.youtube.com/vi/5FcoJNQuGL0/0.jpg)](https://www.youtube.com/watch?v=5FcoJNQuGL0)
+        - 左足が道路の真ん中にある。
+        - ボンネットの中央が左タイヤの走行ライン上にある
+        - 左右の腕が伸びた先が左右タイヤのライン
+        - 前輪はワイパーの下にある
+
+
 ## 右折
 
 - 【右折が苦手な方必見】右折の基本を徹底解説！
-- [![](https://img.youtube.com/vi/coMpgzExxR0/0.jpg)](https://www.youtube.com/watch?v=coMpgzExxR0)
+    - [![](https://img.youtube.com/vi/coMpgzExxR0/0.jpg)](https://www.youtube.com/watch?v=coMpgzExxR0)
 
 - 右折時に確認する箇所
     - 対向車
