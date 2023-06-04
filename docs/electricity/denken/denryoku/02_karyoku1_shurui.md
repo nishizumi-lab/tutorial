@@ -176,12 +176,10 @@
 ## おすすめ参考動画
 
 
-初心者向け電験三種・電力・7・汽力発電・ボイラの種類【超簡単に学ぶ！】第三種電気主任技術者
-[![](https://img.youtube.com/vi/oB1i_I8UOqE/0.jpg)](https://www.youtube.com/watch?v=oB1i_I8UOqE) 
-
-
-1-1. 蒸気タービンの原理（電力機器の原理） 
-[![](https://img.youtube.com/vi/QQgUap5roKk/0.jpg)](https://www.youtube.com/watch?v=QQgUap5roKk)
+- 初心者向け電験三種・電力・7・汽力発電・ボイラの種類【超簡単に学ぶ！】第三種電気主任技術者
+    - [![](https://img.youtube.com/vi/oB1i_I8UOqE/0.jpg)](https://www.youtube.com/watch?v=oB1i_I8UOqE) 
+- 1-1. 蒸気タービンの原理（電力機器の原理） 
+    - [![](https://img.youtube.com/vi/QQgUap5roKk/0.jpg)](https://www.youtube.com/watch?v=QQgUap5roKk)
 
 
 
