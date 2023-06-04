@@ -116,11 +116,11 @@
 
 - 1日の「**調整池に取水する量**」 = 「**発電所での使用水量**」は等しくなるので、
 
- $Q_N\times 3600 times 24 = Q_p = \times 3600 \times 6 + Q_0 \times 3600 \times 18$
+    - $Q_N \cdot 3600 \cdot 24 = (Q_p \cdot 3600 \cdot 6) + (Q_0 \cdot 3600 \cdot 18)$
 
-上式に$Q_N = 6, Q_p=10$を代入すると、$Q_0=4.66$となる。よって
+- 上式に$Q_N = 6, Q_p=10$を代入すると、$Q_0=4.66$となる。よって
 
- $P_0=9.8Q_0H\eta_w\eta_g=9.8\timesv4,66\times 100 \times 0.09\times 0.96 = 4000[kW]$
+    - $P_0=9.8 Q_0 H \eta_w \eta_g = 9.8\cdot 4.66 \cdot 100 \cdot 0.09\cdot 0.96 = 4000[kW]$
 
 ## 【例題】揚水発電所の入出力、効率
 
