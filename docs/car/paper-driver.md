@@ -37,7 +37,7 @@
     - [![](https://img.youtube.com/vi/WTbiWeD7KMM/0.jpg)](https://www.youtube.com/watch?v=WTbiWeD7KMM)
 - *【駐車が上達しない原因】とめやすい駐車スペースの選び方*
     - [![](https://img.youtube.com/vi/EGsq6sPJuU4/0.jpg)](https://www.youtube.com/watch?v=EGsq6sPJuU4)
-- *【ハンドル操作の基本】何回まわしたかわからなくなった時の対処法
+- *【ハンドル操作の基本】何回まわしたかわからなくなった時の対処法*
     - [![](https://img.youtube.com/vi/sCH3-sEyuZ4/0.jpg)](https://www.youtube.com/watch?v=sCH3-sEyuZ4)
 - *据え切り*
     - 停車させた状態でハンドルを切る操作。
