@@ -21,7 +21,7 @@
     - 右折先の状況
         - 横断歩道を歩行者が渡っていないか
 
-## 広い場所での駐車
+## 駐車
 
 - *【駐車のコツ】プロの指導員が解説！今日からできる簡単な駐車*
     - [![](https://img.youtube.com/vi/WTbiWeD7KMM/0.jpg)](https://www.youtube.com/watch?v=WTbiWeD7KMM)
@@ -39,3 +39,10 @@
     - [![](https://img.youtube.com/vi/EGsq6sPJuU4/0.jpg)](https://www.youtube.com/watch?v=EGsq6sPJuU4)
 - *【ハンドル操作の基本】何回まわしたかわからなくなった時の対処法
     - [![](https://img.youtube.com/vi/sCH3-sEyuZ4/0.jpg)](https://www.youtube.com/watch?v=sCH3-sEyuZ4)
+- *据え切り*
+    - 停車させた状態でハンドルを切る操作。
+    - (メリット)駐車時に使うと、安全に動かせる。
+    - (デメリット)地面とタイヤの摩擦が大きいため、タイヤの摩耗を早め(地面も削れる)、ステアリング等の駆動系の
+    - 駐車に慣れない場合等、据え切りを使いたい場合は少しずつハンドルを動かして据え切りする。
+    - 駐車に慣れたら、完全停止中ではなく、ほんの少し車を動かしながら据え切りすると良い。
+
