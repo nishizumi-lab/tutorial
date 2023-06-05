@@ -2,6 +2,8 @@
 
 - [Python](./python/index.md)
 - [Flutter](./flutter/index.md)
+- [Excel/VBA](./excel-vba/index.md)
+- [Excel](./excel/index.md)
 - ソースコード管理
     - [Git/Github](./git/index.md)
 - テキストエディタ
