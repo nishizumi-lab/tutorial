@@ -13,3 +13,7 @@
     - [急増する太陽光発電所の盗難、被害状況にも変化(日経DP)](https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00131/?ST=msb)
     - [使用前自己確認制度・適用前の「単管パイプ太陽光」、立ち入り検査で対応に苦慮(日経DP)](https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00127/?ST=msb)
     - [国による立入検査、「使用前自己確認制度」適用前のサイトにも(日経DP)](https://project.nikkeibp.co.jp/ms/atcl/19/feature/00002/00122/?ST=msb)
+- [直流地絡](./dc-ground-fault.md)
+    - [太陽光発電の直流電気安全のための手引きと技術情報（第2版）国立研究開発法人  産業技術総合研究所2019年4月](https://unit.aist.go.jp/rpd-envene/PV/ja/service/PV_Electrical_Safety/Technical_Information_on_PV_Electrical_Safety2(AIST2019).pdf)
+    - [太陽光発電設備絶縁監視装置特許第６６４４８５３号](https://www.chuden.co.jp/resource/seicho_kaihatsu/kaihatsu/techno/techno_webtenzikai2020/techno_webtenzikai2020_63_5.pdf)
+- 直流地絡
