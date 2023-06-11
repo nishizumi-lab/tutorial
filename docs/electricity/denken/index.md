@@ -18,8 +18,7 @@
     - [火力発電所の種類](./denryoku/2-1-karyoku-shurui.md)
     - [火力発電所の出力](./denryoku/2-2-karyoku-shutsuryoku.md)
     - [燃料と環境対策]()
-- 原子力発電所
-    - []()
+- [原子力発電所](./denryoku/3-1-nuclear-power.md)
 - 新エネルギー発電所
     - 太陽電池発電所
     - 風力発電所
