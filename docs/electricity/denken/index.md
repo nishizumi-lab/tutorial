@@ -23,7 +23,7 @@
     - 太陽電池発電所
     - 風力発電所
 - 変電所
-- 送電線路
+- [送電線路](./denryoku/6-1-sodensenro.md)
 - [配電線路](./denryoku/7-1-haidensenro.md)
     - [ストレスコーンとシュリンクバッグ現象](./denryoku/7-2-shrink-back-stress-cone.md)
 - 地中電線路
