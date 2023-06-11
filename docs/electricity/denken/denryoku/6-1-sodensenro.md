@@ -204,7 +204,7 @@
  [![](https://img.youtube.com/vi/6wl-r7qGiV4/0.jpg)](https://www.youtube.com/watch?v=6wl-r7qGiV4)
 
 
- ## 関連リンク
+## 関連リンク
 
 - [電験3種試験対策トップページ](../index.md)
 - [トップページ](../../../index.md)

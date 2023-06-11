@@ -10,6 +10,8 @@
 初心者向け電験三種・電力・9・汽力発電・効率【超簡単に学ぶ！】第三種電気主任技術者
  [![](https://img.youtube.com/vi/OseY2IeapXI/0.jpg)](https://www.youtube.com/watch?v=OseY2IeapXI)
 
+【カフェジカ実験室】穴あきケーブルに、高電圧メガをあててみた！
+ [![](https://img.youtube.com/vi/hCkMR5C_z6Q/0.jpg)](https://www.youtube.com/watch?v=hCkMR5C_z6Q)
 
  ## 関連リンク
 
