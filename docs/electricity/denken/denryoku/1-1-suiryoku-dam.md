@@ -12,7 +12,7 @@
 
 ## 落差を得る方法で分類
 
-![picture 1](01_suiryoku1_dam1.png)  
+![picture 1](./assets/01_suiryoku1_dam1.png)  
 
 
 落差を得る方法による水力発電所の分類は以下のとおり。
@@ -40,7 +40,7 @@
 
 ## ダムの種類で分類
 
-![picture 1](01_suiryoku1_dam2.png)  
+![picture 1](./assets/01_suiryoku1_dam2.png)  
 
 - 重力式コンクリートダム
     - コンクリート製の**ダム本体の重さ**で水圧を支える。体積が大きくなるが、単純な構造で**日本で最も多いダム**。

@@ -2,7 +2,7 @@
 
 ## 水車の種類 
 
-![水車の種類](01_suiryoku2_suisha.png "水車の種類")
+![水車の種類](./assets/01_suiryoku2_suisha.png "水車の種類")
 
 出典:資源エネルギー庁 https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/hydroelectric/mechanism/waterwheel/
 
