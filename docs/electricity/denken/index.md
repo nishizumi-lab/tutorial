@@ -19,10 +19,8 @@
     - [火力発電所の出力](./denryoku/2-2-karyoku-shutsuryoku.md)
     - [燃料と環境対策](./denryoku/2-3-karyoku-nenryo-kankyo.md)
 - [原子力発電所](./denryoku/3-1-nuclear-power.md)
-- 新エネルギー発電所
-    - 太陽電池発電所
-    - 風力発電所
-- 変電所
+- [新エネルギー発電所](./denryoku/4-1-new-energy.md)
+- [変電所](./denryoku/5-1-substation.md)
 - [送電線路](./denryoku/6-1-sodensenro.md)
 - [配電線路](./denryoku/7-1-haidensenro.md)
     - [ストレスコーンとシュリンクバッグ現象](./denryoku/7-2-shrink-back-stress-cone.md)
