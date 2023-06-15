@@ -55,6 +55,8 @@
 - 教養
     - [ペン習字](./life/penmanship.md)
     - [タイピング・ブラインドタッチ](./life/typing-blind-touch.md)
+- 投資
+    - [Ideco](./life/investment/ideco.md)
 
 ## 乗り物
 
