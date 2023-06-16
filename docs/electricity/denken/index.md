@@ -24,10 +24,10 @@
 - [送電線路](./denryoku/6-1-sodensenro.md)
 - [配電線路](./denryoku/7-1-haidensenro.md)
     - [ストレスコーンとシュリンクバッグ現象](./denryoku/7-2-shrink-back-stress-cone.md)
-- 地中電線路
-- 電気材料
+- [地中電線路](./denryoku/8-1-chichu-densenro.md)
+- [電気材料](./denryoku/9-1-denki-zairyo.md)
 - 電力計算
-- %Zと三相短絡電流
+    - [%Zと三相短絡電流](./denryoku/10-1-%Z.md)
 - 線路計算
 
 ## 機械分野
