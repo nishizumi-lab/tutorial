@@ -32,6 +32,7 @@
 ## 電気電子工学
 
 - [電験3種](./electricity/denken/index.md)
+- [電気設備](./electricity/electric-equipment/index.md)
 - [太陽電池発電所](./electricity/solar/index.md)
 
 
