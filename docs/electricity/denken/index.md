@@ -26,9 +26,10 @@
     - [ストレスコーンとシュリンクバッグ現象](./denryoku/7-2-shrink-back-stress-cone.md)
 - [地中電線路](./denryoku/8-1-chichu-densenro.md)
 - [電気材料](./denryoku/9-1-denki-zairyo.md)
-- 電力計算
+- 電力計算・線路計算
     - [%Zと三相短絡電流](./denryoku/10-1-%Z.md)
-- 線路計算
+    - [変圧器の負荷運転](./denryoku/10-2-trans-overload-operation.md)
+- 
 
 ## 機械分野
 
