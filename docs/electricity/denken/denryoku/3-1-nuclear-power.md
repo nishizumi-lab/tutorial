@@ -92,12 +92,13 @@ $ E= \Delta mc^2 = 2.7 \times 10^{-5}\times(3\times 10^8)^2=2.3\times 10^{12}$ [
 
 ## 参考動画
 
-- 初心者向け電験三種・電力・13・原子力発電・核分裂【超簡単に学ぶ！】第三種電気主任技術者
+- *初心者向け電験三種・電力・13・原子力発電・核分裂【超簡単に学ぶ！】第三種電気主任技術者*
     - [![](https://img.youtube.com/vi/2jRcPzzo8WU/0.jpg)](https://www.youtube.com/watch?v=2jRcPzzo8WU)
-- 初心者向け電験三種・電力・14・原子力発電・原子炉【超簡単に学ぶ！】第三種電気主任技術者
+- *初心者向け電験三種・電力・14・原子力発電・原子炉【超簡単に学ぶ！】第三種電気主任技術者*
     - [![](https://img.youtube.com/vi/WBjJNoG1WsI/0.jpg)](https://www.youtube.com/watch?v=WBjJNoG1WsI)
 
- ## 関連リンク
+
+## 関連リンク
 
 - [電験3種試験対策トップページ](../index.md)
 - [トップページ](../../../index.md)
