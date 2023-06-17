@@ -135,8 +135,18 @@ Y-⊿|○|○|二次側**30°**遅れ|降圧に優れ、受電端に用いられ
 
 ## 参考動画
 
-初心者向け電験三種・電力・21・調相設備【超簡単に学ぶ！】第三種電気主任技術者
- [![](https://img.youtube.com/vi/zhXEyuF3_M8/0.jpg)](https://www.youtube.com/watch?v=zhXEyuF3_M8)
+- 初心者向け電験三種・電力・17・変電・概要・変圧器【超簡単に学ぶ！】第三種電気主任技術者
+    - [![](https://img.youtube.com/vi/zA5aF0sI7lU/0.jpg)](https://www.youtube.com/watch?v=zA5aF0sI7lU)
+- 初心者向け電験三種・電力・17・変電【補足】負荷時タップ切替変圧器【超簡単に学ぶ！】第三種電気主任技術者
+    - [![](https://img.youtube.com/vi/Nm9OaodIr58/0.jpg)](https://www.youtube.com/watch?v=Nm9OaodIr58)
+- 初心者向け電験三種・電力・18・変電・開閉設備【超簡単に学ぶ！】第三種電気主任技術者
+    - [![](https://img.youtube.com/vi/9AMU5mymdA4/0.jpg)](https://www.youtube.com/watch?v=9AMU5mymdA4)
+- 初心者向け電験三種・電力・19・変電・避雷器【超簡単に学ぶ！】第三種電気主任技術者
+    - [![](https://img.youtube.com/vi/YCjoQX2yGoI/0.jpg)](https://www.youtube.com/watch?v=YCjoQX2yGoI)
+- 初心者向け電験三種・電力・20・変電・計器変成器・保護継電器【超簡単に学ぶ！】第三種電気主任技術者
+    - [![](https://img.youtube.com/vi/hIdasgTx_hI/0.jpg)](https://www.youtube.com/watch?v=hIdasgTx_hI)
+- 初心者向け電験三種・電力・21・調相設備【超簡単に学ぶ！】第三種電気主任技術者
+    - [![](https://img.youtube.com/vi/zhXEyuF3_M8/0.jpg)](https://www.youtube.com/watch?v=zhXEyuF3_M8)
 
 
 ## 関連リンク
