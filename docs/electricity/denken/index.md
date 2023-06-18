@@ -30,6 +30,7 @@
     - [%Zと三相短絡電流](./denryoku/10-1-%Z.md)
     - [変圧器の負荷運転](./denryoku/10-2-trans-overload-operation.md)
     - [フェランチ効果](./denryoku/10-3-ferranti-effect.md)
+    - [電線路の電圧降下と損失](./denryoku/10-4-densenro-denatsukoka-sonshitsu.md)
 
 
 ## 機械分野
