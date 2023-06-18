@@ -42,8 +42,8 @@ $S=91.1[mm2]$
 
 ## 参考動画
 
-*初心者向け電験三種・電力・23・変圧器の負荷分担【超簡単に学ぶ！】第三種電気主任技術者*
- [![](https://img.youtube.com/vi/-CJ1sk7Zuds/0.jpg)](https://www.youtube.com/watch?v=-CJ1sk7Zuds)
+*初心者向け電験三種・電力・26・送電・線路の電圧降下【超簡単に学ぶ！】第三種電気主任技術者*
+ [![](https://img.youtube.com/vi/Yl0i2OwpHXo/0.jpg)](https://www.youtube.com/watch?v=Yl0i2OwpHXo)
 
 
 ## 関連リンク
