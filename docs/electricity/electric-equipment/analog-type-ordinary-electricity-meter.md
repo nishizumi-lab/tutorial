@@ -14,16 +14,16 @@
 
 
 - 初心者向け電験三種・理論・18・計器と指示値【超簡単に学ぶ！】第三種電気主任技術者
- [![](https://img.youtube.com/vi/x1-qA1IzPlU/0.jpg)](https://www.youtube.com/watch?v=x1-qA1IzPlU?start=493)
+    - [![](https://img.youtube.com/vi/x1-qA1IzPlU/0.jpg)](https://www.youtube.com/watch?v=x1-qA1IzPlU?start=493)
 
 - アラゴの円板
- [![](https://img.youtube.com/vi/PeoJKqLO7pQ/0.jpg)](https://www.youtube.com/watch?v=PeoJKqLO7pQ)
+    - [![](https://img.youtube.com/vi/PeoJKqLO7pQ/0.jpg)](https://www.youtube.com/watch?v=PeoJKqLO7pQ)
 
 - 【平成２２年・３種・理論・問１６】
- [![](https://img.youtube.com/vi/cQIjZUZ4r_A/0.jpg)](https://www.youtube.com/watch?v=cQIjZUZ4r_A)
+    - [![](https://img.youtube.com/vi/cQIjZUZ4r_A/0.jpg)](https://www.youtube.com/watch?v=cQIjZUZ4r_A)
 
 - 【一陸技】無線工学基礎 うず電流、アラゴ―の円盤
- [![](https://img.youtube.com/vi/hCkMR5C_z6Q/0.jpg)](https://www.youtube.com/watch?v=mQExmCxg2_Q)
+     - [![](https://img.youtube.com/vi/hCkMR5C_z6Q/0.jpg)](https://www.youtube.com/watch?v=mQExmCxg2_Q)
 
 
 
