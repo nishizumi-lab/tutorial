@@ -14,7 +14,7 @@
 
 
 - 初心者向け電験三種・理論・18・計器と指示値【超簡単に学ぶ！】第三種電気主任技術者
-    - [![](https://img.youtube.com/vi/x1-qA1IzPlU/0.jpg)](https://www.youtube.com/watch?v=x1-qA1IzPlU?start=493)
+    - [![](https://img.youtube.com/vi/x1-qA1IzPlU/0.jpg)](https://www.youtube.com/watch?v=x1-qA1IzPlU?t=493)
 
 - アラゴの円板
     - [![](https://img.youtube.com/vi/PeoJKqLO7pQ/0.jpg)](https://www.youtube.com/watch?v=PeoJKqLO7pQ)
