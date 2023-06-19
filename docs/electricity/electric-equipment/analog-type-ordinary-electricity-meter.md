@@ -23,7 +23,7 @@
     - [![](https://img.youtube.com/vi/cQIjZUZ4r_A/0.jpg)](https://www.youtube.com/watch?v=cQIjZUZ4r_A)
 
 - 【一陸技】無線工学基礎 うず電流、アラゴ―の円盤
-     - [![](https://img.youtube.com/vi/hCkMR5C_z6Q/0.jpg)](https://www.youtube.com/watch?v=mQExmCxg2_Q)
+     - [![](https://img.youtube.com/vi/mQExmCxg2_Q/0.jpg)](https://www.youtube.com/watch?v=mQExmCxg2_Q)
 
 
 
