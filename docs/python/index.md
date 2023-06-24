@@ -14,4 +14,7 @@
 - [Python超入門 基礎文法編](./python-basic.md)
 - [Python公式ドキュメント(日本語)](https://docs.python.org/ja/3/)
 
+## Python応用
 
+ - 画像処理・コンピュータビジョン
+    - [OpenCV](./opencv/index.md)
