@@ -25,13 +25,14 @@
 
 
 
-## 情報工学
+## 学問・資格取得
 
 - [情報処理技術者試験](./it/index.md)
-
-## 電気電子工学
-
 - [電験3種](./electricity/denken/index.md)
+- [FP(ファイナンシャル・プランナー)](./fp/index.md)
+
+## 電気・電子
+
 - [電気設備](./electricity/electric-equipment/index.md)
 - [太陽電池発電所](./electricity/solar/index.md)
 
@@ -57,7 +58,7 @@
     - [ペン習字](./life/penmanship.md)
     - [タイピング・ブラインドタッチ](./life/typing-blind-touch.md)
 - 投資
-    - [Ideco](./life/investment/ideco.md)
+    - [Ideco](./fp/investment/ideco.md)
 
 ## 乗り物
 
