@@ -112,9 +112,12 @@
 
 ## 参考動画
 
-- [![](https://img.youtube.com/vi/FBLI7AznzIU/0.jpg)](https://www.youtube.com/watch?v=FBLI7AznzIU)
-- [![](https://img.youtube.com/vi/OM0A1OZSZOE/0.jpg)](https://www.youtube.com/watch?v=OM0A1OZSZOE)
-- [![](https://img.youtube.com/vi/AEpT_3fY9kU/0.jpg)](https://www.youtube.com/watch?v=AEpT_3fY9kU)
+- a
+    - [![](https://img.youtube.com/vi/FBLI7AznzIU/0.jpg)](https://www.youtube.com/watch?v=FBLI7AznzIU)
+- a
+    - [![](https://img.youtube.com/vi/OM0A1OZSZOE/0.jpg)](https://www.youtube.com/watch?v=OM0A1OZSZOE)
+- a
+    - [![](https://img.youtube.com/vi/AEpT_3fY9kU/0.jpg)](https://www.youtube.com/watch?v=AEpT_3fY9kU)
 - 【初心者必見】即VIPいけるサムスの即死コンボ3選！【スマブラSP】
     - [![](https://img.youtube.com/vi/rWtydDzefY4/0.jpg)](https://www.youtube.com/watch?v=rWtydDzefY4)
 - 【解説】 VIP行きたいならこれを見ないと損 サムスのテクニック10選|スマブラSP
@@ -133,3 +136,5 @@
     - [![](https://img.youtube.com/vi/oFh1dlcSUss/0.jpg)](https://www.youtube.com/watch?v=oFh1dlcSUss)
 - 1分ちょっとでわかる_猿でも勝てるサムス_ダークサムス対策【スマブラSP】
     - [![](https://img.youtube.com/vi/2UgrVIRnOyw/0.jpg)](https://www.youtube.com/watch?v=2UgrVIRnOyw)
+- これ覚えたらVIPで勝てます！サムス/ダークサムスの強い行動|スマブラSP
+    - [![](https://img.youtube.com/vi/OM0A1OZSZOE/0.jpg)](https://www.youtube.com/watch?v=OM0A1OZSZOE)
