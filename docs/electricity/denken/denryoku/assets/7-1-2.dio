@@ -44,9 +44,6 @@
                         <mxPoint x="159" y="160.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="70" value="&lt;span style=&quot;font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Hiragino Kaku Gothic ProN&amp;quot;, メイリオ, meiryo, sans-serif; font-size: 15px; text-align: start; background-color: rgb(243, 243, 243);&quot;&gt;\frac{1}{2}&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-                    <mxGeometry x="890" y="130" width="90" height="30" as="geometry"/>
-                </mxCell>
                 <mxCell id="71" value="`\frac{\dot{E}}{\sqrt{3}}`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="40" y="184.5" width="140" height="30" as="geometry"/>
                 </mxCell>
