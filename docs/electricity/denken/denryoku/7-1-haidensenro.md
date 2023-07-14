@@ -75,13 +75,13 @@ $P=\sqrt{3}VIcos\theta$
 
 ## 参考動画
 
-初心者向け電験三種・電力・9・汽力発電・効率【超簡単に学ぶ！】第三種電気主任技術者
- [![](https://img.youtube.com/vi/OseY2IeapXI/0.jpg)](https://www.youtube.com/watch?v=OseY2IeapXI)
+初心者向け電験三種・電力・26・送電・線路の電圧降下【超簡単に学ぶ！】第三種電気主任技術者
+ [![](https://img.youtube.com/vi/Yl0i2OwpHXo/0.jpg)](https://www.youtube.com/watch?v=Yl0i2OwpHXo)
 
 【カフェジカ実験室】穴あきケーブルに、高電圧メガをあててみた！
  [![](https://img.youtube.com/vi/hCkMR5C_z6Q/0.jpg)](https://www.youtube.com/watch?v=hCkMR5C_z6Q)
 
- ## 関連リンク
+## 関連リンク
 
 - [電験3種試験対策トップページ](../index.md)
 - [トップページ](../../../index.md)
