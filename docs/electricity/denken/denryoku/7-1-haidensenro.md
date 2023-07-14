@@ -43,7 +43,7 @@ $\frac{E}{\sqrt{3}} - \frac{V}{\sqrt{3}}=RIcos\theta + XIsin\theta$
 
 $ E-V = \sqrt{3}(RIcos\theta + XIsin\theta) $
 
-$ \epsiron = \sqrt{3}I(Rcos\theta + Xsin\theta) $
+$ \epsilon = \sqrt{3}I(Rcos\theta + Xsin\theta) $
 
 ↑最後の式は要暗記。
 
