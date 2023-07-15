@@ -138,3 +138,5 @@
     - [![](https://img.youtube.com/vi/2UgrVIRnOyw/0.jpg)](https://www.youtube.com/watch?v=2UgrVIRnOyw)
 - これ覚えたらVIPで勝てます！サムス/ダークサムスの強い行動|スマブラSP
     - [![](https://img.youtube.com/vi/OM0A1OZSZOE/0.jpg)](https://www.youtube.com/watch?v=OM0A1OZSZOE)
+- 【サムス解説】VIPにいきたい人のためのCS撃ち方まとめ【スマブラSP】
+    - [![](https://img.youtube.com/vi/zPhlyiim_ww/0.jpg)](https://www.youtube.com/watch?v=zPhlyiim_ww)
