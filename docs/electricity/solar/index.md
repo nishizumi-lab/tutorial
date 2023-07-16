@@ -1,3 +1,8 @@
+## 太陽電池の仕組み
+
+- [太陽電池の等価回路](electricity/solar/solar-cell-equivalent-circuit.md)
+
+
 ## 太陽電池の種類
 
 - 太陽電池
@@ -17,6 +22,8 @@
 	- 有機系
 		- 色素増感
 		- 有機半導体
+
+
 
 ## 補助金制度
 
