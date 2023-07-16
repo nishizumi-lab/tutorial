@@ -31,7 +31,7 @@
     - [変圧器の負荷運転](./denryoku/10-2-trans-overload-operation.md)
     - [フェランチ効果](./denryoku/10-3-ferranti-effect.md)
     - [電線路の電圧降下と損失](./denryoku/10-4-densenro-denatsukoka-sonshitsu.md)
-
+    - [送電線のたるみ・温度変化](../hoki/dengi-6-32-densen-huatsu.md)
 
 ## 機械分野
 
