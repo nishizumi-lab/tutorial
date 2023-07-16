@@ -34,6 +34,8 @@
         - 車体が駐車スペースの線と平行になったら、タイヤを真っ直ぐに戻してバック
 - *狭い場所で駐車をする方法【プロの指導員が解説】*
     - [![](https://img.youtube.com/vi/_iTyKzwvyv4/0.jpg)](https://www.youtube.com/watch?v=_iTyKzwvyv4)
+- *狭【車庫入れロジック】この理論を知れば、ナナメ誘導しなくても、いつもと違うクルマでもバックができる！！*
+    - [![](https://img.youtube.com/vi/H9R_8uE7a6Y/0.jpg)](https://www.youtube.com/watch?v=H9R_8uE7a6Y)
 - *成功率100%!!失敗しようがない元レーサーが教える駐車テクニック*
     - [![](https://img.youtube.com/vi/L0c0ZQ75h4s/0.jpg)](https://www.youtube.com/watch?v=L0c0ZQ75h4s)
 - *【駐車のコツ】失敗する事はもう無くなる。バック駐車のやり方解説【レーサーVtuber】*
