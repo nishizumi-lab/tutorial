@@ -17,6 +17,11 @@ $F=IBl$
 
 $M=2F\frac{h}{2}=IBl^2$
 
+## 参考動画
+
+*初心者向け電験三種・理論・26・ローレンツ力・向心力【超簡単に学ぶ！】第三種電気主任技術者*
+ [![](https://img.youtube.com/vi/nGDCDOmbT0A/0.jpg)](https://www.youtube.com/watch?v=nGDCDOmbT0A)
+
 ## 関連リンク
 
 - [電験3種試験対策トップページ](../index.md)
