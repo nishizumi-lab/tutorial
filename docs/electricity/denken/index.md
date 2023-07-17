@@ -5,39 +5,91 @@
 
 ## 理論分野
 
+1. 直流回路
+    1. [オームの法則]()
+    1. [電線の抵抗]()
+    1. [エネルギーの単位① 力・電力量・熱量の違い]()
+    1. [エネルギーの単位② 熱量Q、仕事W（Ｊ）、電力P（w）]()
+    1. [抵抗の温度変化]()
+    1. [重ね合わせの定理]()
+1. 電磁気学
+    1. [電界]()
+        - 静電気、静電力、電気力線、静電誘導、電磁誘導
+    1. [磁界]()
+        - 磁力、磁力線、磁束、磁束鎖交数、自己インダクタンスL
+    1. [コンデンサ]()
+    1. [ファラデーの電磁誘導	]()
+        - コイルと磁石を用いた電磁誘導
+    1. [電磁力(ローレンツ力)]()
+        - F=IBl
+    1. [環状ソレノイド]()
+    1. [ビオザバールの法則]()
+        - 円形導線の中心に発生する磁界
+    1. [アンペールの法則]()
+        - 電流とその周囲に発生する磁界(磁場)
+    1. [磁気回路オームの法則]()
+        - 磁気回路と電気回路の関係性
+    1. [BH曲線]()
+        - 磁性体の磁束密度Bと磁界の強さHの関係を示した曲線
+    1. [合成インダクタンス]()
+        - 和動接続・差動接続
+1. 交流回路
+    1. [交流回路]()
+    1. [三相交流]()
+    1. [過渡現象]()
+    1. [ラプラス変換]()
+    1. [共振現象]()
+    1. [理想変圧器]()
+1. 電子回路
+    1. [半導体]()
+    1. [トランジスタ]()
+    1. [FET]()
+    1. [オペアンプ]()
+    1. [電子運動]()
+    1. [整流回路]()
+1. 電気計測及び電子計測
+    1. [電流・電圧計]()
+    1. [分流器・倍率器、熱電対]()
+    1. [ファラデー効果(光検出)]()
+    1. [圧電効果(超音波検出)]()
+    1. [ピエゾ抵抗効果(圧力検出)]()
+    1. [AC・DCカップリング]()
 
 ## 電力分野
 
-- 水力発電所
-    - [水力発電所とダムの種類](./denryoku/1-1-suiryoku-dam.md)
+1. 水力発電所
+    1. [水力発電所とダムの種類](./denryoku/1-1-suiryoku-dam.md)
         - [(参考)ダムの定義と堰との違い](./denryoku/1-1-1-suiryoku-sanko-dam-history.md)
-    - [水車の種類](./denryoku/1-2-suiryoku-suisha.md)
-    - [水力学(ベルヌーイの定理)](./denryoku/1-3-suiryoku-suirikigaku.md)
-    - [水力発電所の発電出力](./denryoku/1-4-suiryoku-hatsuden.md)
-- 火力発電所
-    - [火力発電所の種類](./denryoku/2-1-karyoku-shurui.md)
-    - [火力発電所の出力](./denryoku/2-2-karyoku-shutsuryoku.md)
-    - [燃料と環境対策](./denryoku/2-3-karyoku-nenryo-kankyo.md)
-- [原子力発電所](./denryoku/3-1-nuclear-power.md)
-- [新エネルギー発電所](./denryoku/4-1-new-energy.md)
-- [変電所](./denryoku/5-1-substation.md)
-- [送電線路](./denryoku/6-1-sodensenro.md)
-- [配電線路](./denryoku/7-1-haidensenro.md)
-    - [ストレスコーンとシュリンクバッグ現象](./denryoku/7-2-shrink-back-stress-cone.md)
-- [地中電線路](./denryoku/8-1-chichu-densenro.md)
-- [電気材料](./denryoku/9-1-denki-zairyo.md)
-- 電力計算・線路計算
-    - [%Zと三相短絡電流](./denryoku/10-1-%Z.md)
-    - [変圧器の負荷運転](./denryoku/10-2-trans-overload-operation.md)
-    - [フェランチ効果](./denryoku/10-3-ferranti-effect.md)
-    - [電線路の電圧降下と損失](./denryoku/10-4-densenro-denatsukoka-sonshitsu.md)
-    - [送電線のたるみ・温度変化](../hoki/dengi-6-32-densen-huatsu.md)
+    1. [水車の種類](./denryoku/1-2-suiryoku-suisha.md)
+    1. [水力学(ベルヌーイの定理)](./denryoku/1-3-suiryoku-suirikigaku.md)
+    1. [水力発電所の発電出力](./denryoku/1-4-suiryoku-hatsuden.md)
+1. 火力発電所
+    1. [火力発電所の種類](./denryoku/2-1-karyoku-shurui.md)
+    1. [火力発電所の出力](./denryoku/2-2-karyoku-shutsuryoku.md)
+    1. [燃料と環境対策](./denryoku/2-3-karyoku-nenryo-kankyo.md)
+1. [原子力発電所](./denryoku/3-1-nuclear-power.md)
+1. [新エネルギー発電所](./denryoku/4-1-new-energy.md)
+1. [変電所](./denryoku/5-1-substation.md)
+1. [送電線路](./denryoku/6-1-sodensenro.md)
+1. [配電線路](./denryoku/7-1-haidensenro.md)
+    1. [ストレスコーンとシュリンクバッグ現象](./denryoku/7-2-shrink-back-stress-cone.md)
+1. [地中電線路](./denryoku/8-1-chichu-densenro.md)
+1. [電気材料](./denryoku/9-1-denki-zairyo.md)
+1. 電力計算・線路計算
+    1. [%Zと三相短絡電流](./denryoku/10-1-%Z.md)
+    1. [変圧器の負荷運転](./denryoku/10-2-trans-overload-operation.md)
+    1. [フェランチ効果](./denryoku/10-3-ferranti-effect.md)
+    1. [電線路の電圧降下と損失](./denryoku/10-4-densenro-denatsukoka-sonshitsu.md)
+    1. [送電線のたるみ・温度変化](../hoki/dengi-6-32-densen-huatsu.md)
 
 ## 機械分野
 
 
 
 ## 法規分野
+
+1. 電技・電技解釈
+    1. [電技6条、32条 電線のたるみ](../hoki/dengi-6-32-densen-huatsu.md)
 
 
 
