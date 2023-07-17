@@ -34,3 +34,8 @@ $r=\rho \frac{l}{S}=\rho \frac{l}{\pi (d/2)^2}=\frac{4\rho l}{\pi d^2}$
 【解答】
 
 $R=\rho \frac{l}{S}=1.72\times 10^{-8} \frac{1.0\times 10^3}{\pi \times (1.0\times 10^{-3})^2}$
+
+## 関連リンク
+
+- [電験3種試験対策トップページ](../index.md)
+- [トップページ](../../../index.md)

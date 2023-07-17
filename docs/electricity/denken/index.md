@@ -43,19 +43,20 @@
     1. [共振現象](./riron/3-5-rlc-series-resonant-circuit.md)
     1. [理想変圧器](./riron/3-6-risou-henatsuki-genri-shiki.md)
 1. 電子回路
-    1. [半導体](./riron/.md)
-    1. [トランジスタ](./riron/.md)
-    1. [FET](./riron/.md)
-    1. [オペアンプ](./riron/.md)
-    1. [電子運動](./riron/.md)
-    1. [整流回路](./riron/.md)
+    1. [半導体](./riron/4-1-semiconductor.md)
+    1. [トランジスタ](./riron/4-2-transistor.md)
+    1. [FET](./riron/4-3-fet.md)
+    1. [オペアンプ](./riron/4-4-op-amp.md)
+    1. [整流回路](./riron/4-5-rectifier-circuit.md)
+    1. [電子運動](./riron/4-6-relectronic movement.md)
 1. 電気計測及び電子計測
-    1. [電流・電圧計](./riron/.md)
-    1. [分流器・倍率器、熱電対](./riron/.md)
-    1. [ファラデー効果(光検出)](./riron/.md)
-    1. [圧電効果(超音波検出)](./riron/.md)
-    1. [ピエゾ抵抗効果(圧力検出)](./riron/.md)
-    1. [AC・DCカップリング](./riron/.md)
+    1. [電流・電圧計](./riron/5-1-current-Voltmeter.md)
+    1. [分流器・倍率器](./riron/5-2-current-shunt-multiplier.md)
+    1. [熱電対](./riron/5-3-thermocouple.md)
+    1. [ファラデー効果(光検出)](./riron/5-4-faraday-effect.md)
+    1. [圧電効果(超音波検出)](./riron/5-5-piezoelectric-effect.md)
+    1. [ピエゾ抵抗効果(圧力検出)](./riron/5-6-piezoresistance-effect.md)
+    1. [AC・DCカップリング](./riron/5-7-ac-dc-coupling.md)
 
 ## 電力分野
 
