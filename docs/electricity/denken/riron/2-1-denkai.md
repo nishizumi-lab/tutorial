@@ -115,7 +115,7 @@ $\epsilon_0$:ある物質の誘電室$\epsilon$と真空誘電率$\epsilon_r$の
 
 【解】
 
-\$F=k\frac{Q_1Q_2}{r^2}=9\times 10^9\frac{(2\times 10^{-6})\times (-3\times 10^{-6})}{0.3^2}=-0.6[N]$
+$F=k\frac{Q_1Q_2}{r^2}=9\times 10^9\frac{(2\times 10^{-6})(-3\times 10^{-6})}{0.3^2}=-0.6[N]$
 
 ## 【例題2】3つの電荷の静電力
 
