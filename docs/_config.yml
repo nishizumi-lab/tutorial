@@ -4,6 +4,7 @@ google_analytics: G-YD4B1NB2TP
 show_downloads: false
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 #theme: minimal-mistakes-jekyll
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: "mmistakes/minimal-mistakes"
