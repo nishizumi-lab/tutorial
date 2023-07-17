@@ -42,6 +42,7 @@
     1. [ラプラス変換](./riron/3-4-laplace-transform-table-formula.md)
     1. [共振現象](./riron/3-5-rlc-series-resonant-circuit.md)
     1. [理想変圧器](./riron/3-6-risou-henatsuki-genri-shiki.md)
+    1. [直交座標表示と極座標表示](./riron/3-7-rectangular-and-polar-coordinate.md)
 1. 電子回路
     1. [半導体](./riron/4-1-semiconductor.md)
     1. [トランジスタ](./riron/4-2-transistor.md)
