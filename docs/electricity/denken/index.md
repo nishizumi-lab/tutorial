@@ -12,7 +12,7 @@
     1. [電線の抵抗](./riron/1-2-wire-resistance.md)
     1. [エネルギーの単位① 力・電力量・熱量の違い](./riron/.md)
     1. [エネルギーの単位② 熱量Q、仕事W（Ｊ）、電力P（w）](./riron/.md)
-    1. [抵抗の温度変化](./riron/.md)
+    1. [抵抗の温度変化](./riron/1-5-doutai-teikou-ondo.md)
     1. [重ね合わせの定理](./riron/.md)
 1. 電磁気学
     1. [電界](./riron/.md)
