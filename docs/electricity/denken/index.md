@@ -49,7 +49,7 @@
     1. [FET](./riron/4-3-fet.md)
     1. [オペアンプ](./riron/4-4-op-amp.md)
     1. [整流回路](./riron/4-5-rectifier-circuit.md)
-    1. [電子運動](./riron/4-6-relectronic movement.md)
+    1. [電子運動](./riron/4-6-relectronic-movement.md)
 1. 電気計測及び電子計測
     1. [電流・電圧計](./riron/5-1-current-Voltmeter.md)
     1. [分流器・倍率器](./riron/5-2-current-shunt-multiplier.md)
