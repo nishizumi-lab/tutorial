@@ -7,7 +7,7 @@
 
 1. 直流回路
     1. [オームの法則](./riron/1-1-ohms-law.md)
-    1. [電線の抵抗](./riron/.md)
+    1. [電線の抵抗](./riron/1-2-wire-resistance.md)
     1. [エネルギーの単位① 力・電力量・熱量の違い](./riron/.md)
     1. [エネルギーの単位② 熱量Q、仕事W（Ｊ）、電力P（w）](./riron/.md)
     1. [抵抗の温度変化](./riron/.md)
