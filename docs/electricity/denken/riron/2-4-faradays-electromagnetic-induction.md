@@ -11,8 +11,8 @@
 
 ## 参考動画
 
-*初心者向け電験三種・理論・5・自己誘導・電磁エネルギー（磁気エネルギー）リメイク版・訂正2023/5/23【超簡単に学ぶ！】第三種電気主任技術者*
- [![](https://img.youtube.com/vi/jFkyaCjHmBg/0.jpg)](https://www.youtube.com/watch?v=jFkyaCjHmBg)
+- *初心者向け電験三種・理論・5・自己誘導・電磁エネルギー（磁気エネルギー）リメイク版・訂正2023/5/23【超簡単に学ぶ！】第三種電気主任技術者*
+    - [![](https://img.youtube.com/vi/jFkyaCjHmBg/0.jpg)](https://www.youtube.com/watch?v=jFkyaCjHmBg)
 
 ## 関連リンク
 
