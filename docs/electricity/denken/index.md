@@ -2,6 +2,8 @@
 
 - [試験概要(公式HP)](https://www.shiken.or.jp/examination/e-chief03.html)
 - [試験日程(公式HP)](https://www.shiken.or.jp/schedule/)
+- [電気技術者試験センター 個人申込ページ](https://moshikomi-shiken.jp/ecee/user/public/)
+
 
 ## 理論分野
 
@@ -80,7 +82,7 @@
     1. [変圧器の負荷運転](./denryoku/10-2-trans-overload-operation.md)
     1. [フェランチ効果](./denryoku/10-3-ferranti-effect.md)
     1. [電線路の電圧降下と損失](./denryoku/10-4-densenro-denatsukoka-sonshitsu.md)
-    1. [送電線のたるみ・温度変化](../hoki/dengi-6-32-densen-huatsu.md)
+    1. [送電線のたるみ・温度変化](./hoki/dengi-6-32-densen-huatsu.md)
 
 ## 機械分野
 
@@ -89,7 +91,7 @@
 ## 法規分野
 
 1. 電技・電技解釈
-    1. [電技6条、32条 電線のたるみ](../hoki/dengi-6-32-densen-huatsu.md)
+    1. [電技6条、32条 電線のたるみ](./hoki/dengi-6-32-densen-huatsu.md)
 
 
 
