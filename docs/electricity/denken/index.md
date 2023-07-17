@@ -63,7 +63,7 @@
 1. 電気計測及び電子計測
     1. [電流・電圧計](./riron/5-1-current-Voltmeter.md)
     1. [分流器・倍率器](./riron/5-2-current-shunt-multiplier.md)
-    1. [熱電対](./riron/5-3-thermocouple.md)
+    1. [熱電対とゼーベック効果](./riron/5-3-thermocouple.md)
     1. [ファラデー効果(光検出)](./riron/5-4-faraday-effect.md)
     1. [圧電効果(超音波検出)](./riron/5-5-piezoelectric-effect.md)
     1. [ピエゾ抵抗効果(圧力検出)](./riron/5-6-piezoresistance-effect.md)
