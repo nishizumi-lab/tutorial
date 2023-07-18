@@ -46,7 +46,7 @@
     1. [合成インダクタンス](./riron/2-11-trance-combined-inductance.md)
         - 和動接続・差動接続
 1. 交流回路
-    1. [交流回路](./riron/3-1-impedance.md)
+    1. [交流回路](./riron/3-1-koryu.md)
     1. [三相交流](./riron/3-2-sanso-koryu.md)
     1. [過渡現象](./riron/3-3-katogensho.md)
     1. [ラプラス変換](./riron/3-4-laplace-transform-table-formula.md)
