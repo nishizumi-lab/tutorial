@@ -23,6 +23,7 @@
     1. [エネルギーの単位① 力・電力量・熱量の違い](./riron/1-3-power-amount-of-power-heat.md)
     1. [エネルギーの単位② 熱量Q、仕事W（Ｊ）、電力P（w）](./riron/1-4-q-w-p.md)
     1. [抵抗の温度変化](./riron/1-5-doutai-teikou-ondo.md)
+    1. [銅抵抗の温度変化](./riron/1-5-1-copper-teikou-ondo.md)
     1. [重ね合わせの定理](./riron/1-6-superposition-theorem.md)
 1. 電磁気学
     1. [電界](./riron/2-1-denkai.md)
