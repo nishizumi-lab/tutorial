@@ -70,19 +70,16 @@ Y結線（スター結線）の回路図は次のようになります。
 【解答】
 
 - 一相分のインピーダンスZp[Ω]は以下のとおり。
-\begin{eqnarray}
-Z_p= \sqrt{R^2 + (X_L-X_c)^2} = 10
-\end{eqnarray}
+
+$Z_p= \sqrt{R^2 + (X_L-X_c)^2} = 10$
 
 - 相電流Ip[A]は以下のとおり。
-\begin{eqnarray}
-I_p=\frac{V_p}{Z_p}=\frac{200}{10}=20
-\end{eqnarray}
+
+$I_p=\frac{V_p}{Z_p}=\frac{200}{10}=20$
 
 - 一相分の力率cosθは以下のとおり。
-\begin{eqnarray}
-cos \theta = \frac{R}{Z}=\frac{6}{10}=0.6
-\end{eqnarray}
+
+$cos \theta = \frac{R}{Z}=\frac{6}{10}=0.6$
 
 - 三相分の消費電力$P_{3L}$は以下のとおり。
 
