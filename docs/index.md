@@ -20,6 +20,8 @@
     - [Clip Studio](./clipstudio/index.md)
 - 動画編集
     - [動画をGIFに変換](./movie-photo-edit/movie-to-gif.md)
+- 航空無線
+    - [スマホやPCだけで航空無線を楽しむ](./electricity/wireless/assets/aviation-radio-smartphone-pc2.png)
 
 ## Webサービス・アプリ
 
@@ -35,7 +37,6 @@
 
 - [電気設備](./electricity/electric-equipment/index.md)
 - [太陽電池発電所](./electricity/solar/index.md)
-
 
 
 ## ゲーム攻略
