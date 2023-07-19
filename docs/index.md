@@ -23,7 +23,7 @@
 - 動画編集
     - [動画をGIFに変換](./movie-photo-edit/movie-to-gif.md)
 - 航空無線
-    - [スマホやPCだけで航空無線を楽しむ](./electricity/wireless/assets/aviation-radio-smartphone-pc2.png)
+    - [スマホやPCだけで航空無線を楽しむ](./electricity/wireless/aviation-radio-smartphone-pc.md)
 
 ## Webサービス・アプリ
 
