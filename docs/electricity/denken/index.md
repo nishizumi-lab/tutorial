@@ -89,6 +89,8 @@
     1. [フェランチ効果](./denryoku/10-3-ferranti-effect.md)
     1. [電線路の電圧降下と損失](./denryoku/10-4-densenro-denatsukoka-sonshitsu.md)
     1. [送電線のたるみ・温度変化](./hoki/dengi-6-32-densen-huatsu.md)
+1. 予備知識(基本的に試験には出題されない)
+    1. [制御機器番号・補助番号の読み方(52F1など)](5-1-1-symbol-equipment-number.md)
 
 ## 機械分野
 
