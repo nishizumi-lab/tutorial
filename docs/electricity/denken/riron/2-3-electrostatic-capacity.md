@@ -12,6 +12,8 @@ $Q=CV[C]$
 
 ## 球状導体の静電容量、電位、電束密度、電束の総数
 
+![図1](./assets/2-4-faradays-electromagnetic-induction1.png)  
+
 - 誘電率$epsilon$の空間にある点電荷Q[C]からr[m]離れた点の電位V[V]は次式で計算できます。
 
 $V=\frac{Q}{4\pi \epsilon r}$
@@ -27,6 +29,8 @@ $C=\frac{Q}{V}=\frac{Q}{\frac{Q}{4\pi \epsilon r}}=4\pi \epsilon r$
     - **誘電率$\epsilon$に関係なく**、電荷Q[C]からはQの電束が出ます。
 
 ## 同心球状導体の静電容量、電位、電気力線の本数、電束密度、電束の総数
+
+![図2](./assets/2-4-faradays-electromagnetic-induction2.png)  
 
 同心球導体とは、同じ中心をもつ大小２つの球殻がある導体です。
 外球を接地し、内球と外球の間にある空間の誘電率は$\epsilon$とします。
@@ -50,6 +54,8 @@ $C_{12}=\frac{Q}{V_{12}}=\frac{Q}{\frac{Q}{4\pi \epsilon}(\frac{1}{r_1}-\frac{1}
 
 ## 平行導体板①の静電容量、電位、電気力線の本数、電束密度、電束の総数
 
+![図3](./assets/2-4-faradays-electromagnetic-induction3.png)  
+
 平行導体板とは、以下のように2枚の導体板(面積$S[m^2]$)が平行にあるものです。
 
 - 電気力線の本数
@@ -71,6 +77,8 @@ $C_{12}=\frac{Q}{V_{12}}=\frac{Q}{\frac{Q}{4\pi \epsilon}(\frac{1}{r_1}-\frac{1}
 
 
 ## 平行導体板②(2つの誘電体が並列)の静電容量、電位、電気力線の本数、電束密度、電束の総数
+
+![図4](./assets/2-4-faradays-electromagnetic-induction4.png)  
 
 同じ寸法の直方体で誘電率の異なる2つの誘導体(誘電率ε1、ε2)が平行板コンデンサに充填されている。
 極板間は一定の電圧V[V]と電界Eに保たれ2つの極板にはそれぞれ+Q[C], -Q[C]の電荷が蓄えられている。
@@ -96,6 +104,8 @@ $C=C_1 + C_1 = \frac{\epsilon_1S_1+\epsilon_2S_2}{d}$
     - 誘電率に関係なく、電荷Q[C]からはQの電束が出ます。
 
 ## 平行導体板③(3つの誘電体が直列)の静電容量、電位、電気力線の本数、電束密度、電束の総数
+
+![図5](./assets/2-4-faradays-electromagnetic-induction5.png)  
 
 同じ寸法の直方体で誘電率の異なる3つの誘導体(誘電率ε1、ε2、ε3)が平行板コンデンサに充填されている。
 極板間は一定の電圧V[V]と電界Eに保たれ2つの極板にはそれぞれ+Q[C], -Q[C]の電荷が蓄えられている。
