@@ -90,7 +90,8 @@
     1. [電線路の電圧降下と損失](./denryoku/10-4-densenro-denatsukoka-sonshitsu.md)
     1. [送電線のたるみ・温度変化](./hoki/dengi-6-32-densen-huatsu.md)
 1. 予備知識(基本的に試験には出題されない)
-    1. [制御機器番号・補助番号の読み方(52F1など)](5-1-1-symbol-equipment-number.md)
+    1. [制御機器番号・補助番号の読み方(52F1など)](./5-1-1-symbol-equipment-number.md)
+    1. [単線結線図の記号の読み方](./5-1-2-symbo-of-single-line-diagram.md)
 
 ## 機械分野
 
@@ -99,7 +100,8 @@
 ## 法規分野
 
 1. 電技・電技解釈
-    1. [電技6条、32条 電線のたるみ](./hoki/dengi-6-32-densen-huatsu.md)
+    1. [5条 1線地絡電流とB種接地抵抗の計算](./dengi-5-single-line-to-ground-fault-current)
+    1. [6、32条 電線のたるみ](./dengi-6-32-densen-huatsu.md)
 
 
 
