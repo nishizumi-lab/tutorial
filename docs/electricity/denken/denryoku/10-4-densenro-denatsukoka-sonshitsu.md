@@ -16,9 +16,8 @@
 
 【①の解答】
 2回線に流れる電流値Iは以下のとおり。
-\begin{eqnarray}
-I=\frac{P_r}{\sqrt{3}V_rcos\theta}=\frac{5000\times 10^3}{\sqrt{3}\times 22\times 10^3 \times 0.9}=145.8
-\end{eqnarray}
+
+$I=\frac{P_r}{\sqrt{3}V_rcos\theta}=\frac{5000\times 10^3}{\sqrt{3}\times 22\times 10^3 \times 0.9}=145.8$
 
 よって、1回線に流れる電流は、この半分の72.9A
 
