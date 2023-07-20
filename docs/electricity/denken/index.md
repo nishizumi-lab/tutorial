@@ -100,7 +100,7 @@
 ## 法規分野
 
 1. 電技・電技解釈
-    1. [5条 1線地絡電流とB種接地抵抗の計算](./dengi-5-single-line-to-ground-fault-current)
+    1. [5条 1線地絡電流とB・D種接地抵抗の計算](./dengi-5-single-line-to-ground-fault-current)
     1. [6、32条 電線のたるみ](./dengi-6-32-densen-huatsu.md)
 
 
