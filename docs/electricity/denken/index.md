@@ -15,7 +15,7 @@
 - [試験概要(公式HP)](https://www.shiken.or.jp/examination/e-chief03.html)
 - [試験日程(公式HP)](https://www.shiken.or.jp/schedule/)
 - [電気技術者試験センター 個人申込ページ](https://moshikomi-shiken.jp/ecee/user/public/)
-
+- [試験に関するQ&A 試験の過去問題の使用方法について](https://www.shiken.or.jp/qa.html#q8)
 
 ## 理論分野
 
