@@ -184,7 +184,7 @@ $C=\frac{C_1C_2}{C_1+C_2}\frac{30\cdot 60}{30+60}=20$[𝜇F]
 
 【問題】
 
-![図6](./assets/2-3-electrostatic-capacity6.png) 
+![図6](./assets/2-3-electrostatic-capacity7.png) 
 
 - 図のように、極板間の厚さ$d[m]$、表面積$S[m^2]$の平行板コンデンサAとBがある。
 - コンデンサAの内部は、比誘電率と厚さが異なる3種類の誘電体で構成され、極板と各誘電体の水平方向の断面積は同一である。
