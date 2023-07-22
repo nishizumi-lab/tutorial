@@ -62,6 +62,9 @@
     - [タイピング・ブラインドタッチ](./life/typing-blind-touch.md)
 - 投資
     - [Ideco](./fp/investment/ideco.md)
+- 衣服等
+    - [MobacとCreate Barefootの財布](./fashion/mobac-create-barefoot.md)
+
 
 ## 乗り物
 
