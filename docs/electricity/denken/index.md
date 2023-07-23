@@ -28,17 +28,18 @@
     1. [銅抵抗の温度変化](./riron/1-5-1-copper-teikou-ondo.md)
     1. [重ね合わせの定理](./riron/1-6-superposition-theorem.md)
 1. 電磁気学
-    1. [電界](./riron/2-1-denkai.md) 静電気、静電力、電気力線、静電誘導、電磁誘導
-    1. [磁界](./riron/2-2-jikai.md) 磁力、磁力線、磁束、磁束鎖交数、自己インダクタンスL
+    1. [電界](./riron/2-1-denkai.md)
+    1. [磁界](./riron/2-2-jikai.md)
     1. [コンデンサ](./riron/2-3-electrostatic-capacity.md)
-    1. [ファラデーの電磁誘導](./riron/2-4-faradays-electromagnetic-induction.md) コイルと磁石を用いた電磁誘導
-    1. [電磁力(ローレンツ力)](./riron/2-5-lorentz-force.md) F=IBl
+    1. [ファラデーの電磁誘導](./riron/2-4-faradays-electromagnetic-induction.md)
+    1. [電磁力(ローレンツ力)](./riron/2-5-lorentz-force.md)
     1. [環状ソレノイド](./riron/2-6-annular-solenoid.md)
-    1. [ビオザバールの法則](./riron/2-7-biot-savart-low.md) 円形導線の中心に発生する磁界
-    1. [アンペールの法則](./riron/2-8-ampere-sekibun-bibun.md) 電流とその周囲に発生する磁界(磁場)
+    1. [ビオザバールの法則](./riron/2-7-biot-savart-low.md)
+    1. [アンペールの法則](./riron/2-8-ampere-sekibun-bibun.md)
     1. [磁気回路オームの法則](./riron/2-9-jiki-kairo-ohms-law.md)
     1. [BH曲線](./riron/2-10-bh-curve.md)
-    1. [合成インダクタンス](./riron/2-11-combined-inductance.md) 和動接続・差動接続
+    1. [合成インダクタンス(和動接続・差動接続)](./riron/2-11-combined-inductance.md) 
+    1. [レンツの法則](./riron/2-12-lenzs-law.md) 
 1. 交流回路
     1. [交流回路](./riron/3-1-koryu.md)
     1. [三相交流](./riron/3-2-sanso-koryu.md)
