@@ -110,6 +110,14 @@
     - 相手が低%帯で入るダメージ40%超えの強力コンボ。序盤に狙っていく。
     - ![キャンバスの作成](./samus/combo1.gif)  
 
+## キャラ対策
+
+- マリオ
+    - 浮かされたら、急降下N回避やコンボを食らわないよう崖に逃げる
+    - 空N空後差し込みに確実にガーキャン上Bを擦る
+    - ファイヤーボールは中CSで打ち消して当てられる
+    - 中距離でチャージショットと掴みを狙い、相手がジャンプで近づいてきたら空前で追い返す
+
 ## 参考動画
 
 - a
@@ -142,3 +150,9 @@
     - [![](https://img.youtube.com/vi/zPhlyiim_ww/0.jpg)](https://www.youtube.com/watch?v=zPhlyiim_ww)
 - 【史上初】サムス/ダムスの掴み（グラップ）キャンセル徹底解説|スマブラSP
     - [![](https://img.youtube.com/vi/MDCsVt3yOZU/0.jpg)](https://www.youtube.com/watch?v=MDCsVt3yOZU)
+- 【初出し】サムス/ダムスのCSCZair徹底解説|スマブラSP
+    - [![](https://img.youtube.com/vi/3yBjClZ23QI/0.jpg)](https://www.youtube.com/watch?v=3yBjClZ23QI)
+- スマブラSP】今さら聞けない？空ダ2式4式のやり方、コツ
+    - [![](https://img.youtube.com/vi/4JAx3ZkWPfs/0.jpg)](https://www.youtube.com/watch?v=4JAx3ZkWPfs)
+- 【IQ3】1分で分かる空中ダッシュ【スマブラSP】
+    - [![](https://img.youtube.com/vi/2AhGze8KKgw/0.jpg)](https://www.youtube.com/watch?v=2AhGze8KKgw)
