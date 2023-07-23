@@ -38,7 +38,7 @@
     1. [アンペールの法則](./riron/2-8-ampere-sekibun-bibun.md) 電流とその周囲に発生する磁界(磁場)
     1. [磁気回路オームの法則](./riron/2-9-jiki-kairo-ohms-law.md)
     1. [BH曲線](./riron/2-10-bh-curve.md)
-    1. [合成インダクタンス](./riron/2-11-trance-combined-inductance.md) 和動接続・差動接続
+    1. [合成インダクタンス](./riron/2-11-combined-inductance.md) 和動接続・差動接続
 1. 交流回路
     1. [交流回路](./riron/3-1-koryu.md)
     1. [三相交流](./riron/3-2-sanso-koryu.md)
