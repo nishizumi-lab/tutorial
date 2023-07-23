@@ -140,3 +140,5 @@
     - [![](https://img.youtube.com/vi/OM0A1OZSZOE/0.jpg)](https://www.youtube.com/watch?v=OM0A1OZSZOE)
 - 【サムス解説】VIPにいきたい人のためのCS撃ち方まとめ【スマブラSP】
     - [![](https://img.youtube.com/vi/zPhlyiim_ww/0.jpg)](https://www.youtube.com/watch?v=zPhlyiim_ww)
+- 【史上初】サムス/ダムスの掴み（グラップ）キャンセル徹底解説|スマブラSP
+    - [![](https://img.youtube.com/vi/MDCsVt3yOZU/0.jpg)](https://www.youtube.com/watch?v=MDCsVt3yOZU)
