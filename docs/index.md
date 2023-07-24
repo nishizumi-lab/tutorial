@@ -59,7 +59,8 @@
     - [MobacとCreate Barefootの財布](./fashion/mobac-create-barefoot.md)
 - 農業
     - [水耕栽培](./agriculture/hydroponics.md)
-
+    - [ペットボトルで簡易水耕栽培キットを自作](./agriculture/hydroponics-plastic-bottle.md)
+    - [ペットボトル簡易水耕栽培キットで再生野菜](./agriculture/hydroponics-regenerated-vegetables-plastic-bottle.md)
 
 ## 乗り物
 
