@@ -35,7 +35,7 @@
     1. [電磁力(ローレンツ力)](./riron/2-5-lorentz-force.md)
     1. [環状ソレノイド](./riron/2-6-annular-solenoid.md)
     1. [ビオザバールの法則](./riron/2-7-biot-savart-low.md)
-    1. [アンペールの法則](./riron/2-8-ampere-sekibun-bibun.md)
+    1. [アンペールの法則](./riron/2-8-amperes-circuital-law.md)
     1. [磁気回路オームの法則](./riron/2-9-jiki-kairo-ohms-law.md)
     1. [BH曲線](./riron/2-10-bh-curve.md)
     1. [合成インダクタンス(和動接続・差動接続)](./riron/2-11-combined-inductance.md) 
