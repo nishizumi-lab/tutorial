@@ -40,16 +40,9 @@
 - [電気設備](./electricity/electric-equipment/index.md)
 - [太陽電池発電所](./electricity/solar/index.md)
 
+## 農業
 
-## ゲーム攻略
 
-- [スマブラSP](./game/smash-bros/minmin.md)
-    - [ミェンミェン](./game/smash-bros/minmin.md)
-    - [ホムラ・ヒカリ](./game/smash-bros/homurahikari.md)
-    - [ルフレ](./game/smash-bros/reflet.md)
-    - [リンク](./game/smash-bros/link.md)
-    - [パルテナ](./game/smash-bros/palutena.md)
-    - [サムス・ダークサムス](./game/smash-bros/samus.md)
 
 ## 生活情報・旅行
 
@@ -64,12 +57,25 @@
     - [Ideco](./fp/investment/ideco.md)
 - 衣服等
     - [MobacとCreate Barefootの財布](./fashion/mobac-create-barefoot.md)
+- 農業
+    - [水耕栽培](./agriculture/hydroponics.md)
 
 
 ## 乗り物
 
 - [自動車](./car/index.md)
 - [自転車](./bicycle/index.md)
+
+
+## ゲーム攻略
+
+- [スマブラSP](./game/smash-bros/minmin.md)
+    - [ミェンミェン](./game/smash-bros/minmin.md)
+    - [ホムラ・ヒカリ](./game/smash-bros/homurahikari.md)
+    - [ルフレ](./game/smash-bros/reflet.md)
+    - [リンク](./game/smash-bros/link.md)
+    - [パルテナ](./game/smash-bros/palutena.md)
+    - [サムス・ダークサムス](./game/smash-bros/samus.md)
 
 ## その他
 
