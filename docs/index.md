@@ -40,11 +40,11 @@
 - [電気設備](./electricity/electric-equipment/index.md)
 - [太陽電池発電所](./electricity/solar/index.md)
 
-## 農業
+## 
 
 
 
-## 生活情報・旅行
+## 生活・旅行・農業
 
 - 兵庫県
     - [尼崎市](./life/hyogo-amagasaki.md)
