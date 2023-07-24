@@ -1,12 +1,16 @@
 # 【再生野菜】ペットボトルで水耕栽培キットを簡単に作る方法を解説
 
-## 再生野菜とは?
+## 再生野菜(リボべジ)とは?
 
+再生野菜(リボべジ、リボーンベジタブル)とは、野菜の根やヘタなどを捨てずに育てて食べられる部分を再び再生させた野菜のことです。
+再生野菜をしやすいものとして、ネギ、ミツバ、豆苗、人参、大根、サニーレタスなどがあります。
+
+野菜の種類や栽培方法によって、難易度が異なります。
 
 ## おすすめの野菜
 
-- 青ネギ、少ネギ
-- みつば
+- [青ネギ、小ネギ、細ネギ](./assets/hydroponics-regenerated-vegetables-plastic-bottle-negi.md)
+- [みつば](./assets/hydroponics-regenerated-vegetables-plastic-bottle-mitsuba.md)
 
 ## ペットボトルで簡易水耕栽培キットを自作
 
@@ -15,7 +19,8 @@
 
 ![図1](./assets/hydroponics-regenerated-vegetables-plastic-bottle/1.jpg) 
 
-- ペットボトルの上部を逆さ(飲み口を下)にして、育てる野菜の根っこを呑み口に刺して入れます。
+- ペットボトルの上部を逆さ(飲み口を下)にし、野菜を飲み口に刺して入れます。
+- ネギなどの根っこがある野菜は、写真のように飲み口の外側に根が出るように入れます。
 
 ![図4](./assets/hydroponics-regenerated-vegetables-plastic-bottle/4.jpg) 
 
