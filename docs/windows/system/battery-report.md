@@ -1,6 +1,6 @@
 # 【Windows】バッテリーの劣化・故障具合をレポート出力で調べる方法
 
-# バッテリーレポートとは
+## バッテリーレポートとは
 
 WindowsのタブレットPCやノートPCには、「バッテリーレポート」と呼ばれる機能があります。
 これは、バッテリーの健康診断結果のようなもので、バッテリーがどの程度劣化しているか、故障しているかがわかります。
@@ -15,7 +15,7 @@ WindowsのタブレットPCやノートPCには、「バッテリーレポート
 
 
 ```
-「powercfg /batteryreport /output C:\Users\＜ユーザー名＞\Desktop\battery_report.html
+powercfg /batteryreport /output C:\Users\＜ユーザー名＞\Desktop\battery_report.html
 ```
 
 - 補足
