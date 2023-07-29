@@ -28,6 +28,7 @@
     1. [銅抵抗の温度変化](./riron/1-5-1-copper-teikou-ondo.md)
     1. [重ね合わせの定理](./riron/1-6-superposition-theorem.md)
     1. [テブナンの等価回路](./riron/1-7-thevenins-theorem.md)
+    1. [可変抵抗の最大消費電力](./riron/1-8-variable-resistor-maximum-power-consumption.md)
 1. 電磁気学
     1. [電界](./riron/2-1-denkai.md)
     1. [磁界](./riron/2-2-jikai.md)
