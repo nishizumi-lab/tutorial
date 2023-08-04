@@ -143,6 +143,32 @@ $L=\frac{R}{2\pi f}$
 - 誘導性負荷\dot{Z}の力率$cos\theta=\frac{1}{\sqrt{2}}$より、θ=45°なので、電圧$\dot{V_2}$は電流より45°進むことがわかる。
 - よって、$\dot{V_1}$と$\dot{V_2}$の位相差は0°と求まる。
 
+# 【例題5】交流回路の計算
+
+【電験3種 理論 平成29年度 問題8 一部改変】
+
+図のように，交流電圧 𝐸=100 V の電源，誘導性リアクタンス 𝑋=4 Ω のコイル， 𝑅1 [Ω] ， 𝑅2 [Ω] の抵抗からなる回路がある。いま，回路を流れる電流の値が 𝐼=20 A であり，また，抵抗 𝑅1 に流れる電流 𝐼1 [A] と抵抗 𝑅2 に流れる電流 𝐼2 [A] との比が， 𝐼1:𝐼2=1:3 であった。この時，抵抗 𝑅1 [Ω] を求めよ。
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqnTFEGR4n1VYcLZwoJ_xPPNStq9wyHDpjZPBQOXqMKpfBUvI_D8kpDurg2-7s9Q95uPsqaHSbLEAW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+【解答】
+
+-  $I_1:I_2=1:3$より、抵抗$R_1:R_2=3:1$とわかる。よって、$R_1$と$R_2$の合成抵抗$R$は以下のとおり。
+
+$R=\frac{R_1R_2}{R_1+R_2}=\frac{3R_2R_2}{3R_2+R_2}=\frac{3R_2}{4}=\frac{R_1}{4}$
+
+- よって、以下のとおり抵抗$R=3$[Ω]と求まる。
+
+$E=ZI=\sqrt{X^2+R^2}I$
+
+$100=\sqrt{4^2+R^2}\times 20$
+
+$R=3$
+
+- よって、抵抗$R_1=12$[Ω]と求まる
+
+$R_1=4R=4\times 3 =12$[Ω]
+
 ## 参考動画
 
 - *初心者向け電験三種・理論・13・交流の位相差【超簡単に学ぶ！】第三種電気主任技術者*

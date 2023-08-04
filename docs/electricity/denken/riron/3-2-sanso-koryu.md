@@ -211,6 +211,34 @@ $P_1=\frac{V^2}{R}=\frac{(200\sqrt{3})^2}{10}=\frac{4000}{3} [W]
 
 - 三相負荷の有効電力Pは3相分なので、$P_1$の3倍の$4[kW]$となる。
 
+# 【例題4】三相交流回路の消費電力
+
+【電験3種 理論 平成30年度 問題15 一部改変】
+
+図のように、$\dot{E}_a, \dot{E}_b, \dot{E}_c$[V]をもつ3つの定電圧源に、スイッチ$S_1, S_2$、抵抗$R_1=10, R_2=20$[Ω]を接続した交流回路がある。次の①②の値を求めよ。ただし、$ \dot{E}_a, \dot{E}_b, \dot{E}_c $[V]の正の向きはそれぞれ図の矢印のようにとり、これらの実効値は100V、位相は$\dot{E}_a, \dot{E}_b, \dot{E}_c$[V]の順に$\frac{2}{3}\pi $[rad]ずつ遅れているものとする。
+
+①スイッチ$S_2$を開いた状態でスイッチ$S_1$を閉じたとき、抵抗$R_1$[Ω]に流れる電流$\dot{I}_1$の実効値[A]。
+
+②スイッチ$S_1$を開いた状態でスイッチスイッチ$S_2$を閉じたとき、抵抗$R_2$[Ω]で消費される電力[W]。
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGExeGxK-g3VwTuHzlk27FIXcpokHnysnq75Hmms-305JELA36iY4hHRD8NZkqTHAgozAGB5Lpxq7A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+【解答①】
+- 抵抗$R_1$ にかかる電圧は$\dot{E}_b-\dot{E}_c$。キルヒホッフの法則より、抵抗抵抗$R_1$に流れる電流$\dot{I}_1$の大きさは以下のとおり。
+
+$|\dot{I}_1|=|\frac{\dot{E}_b-\dot{E}_c}{R_1}|=frac{100\sqrt{3}}{10}=17.3$[A]
+
+【解答②】
+
+- 抵抗$R_2$ にかかる電圧は$\dot{E}_a+\dot{E}_b-\dot{E}_c$。キルヒホッフの法則より、抵抗抵抗$R_2$に流れる電流$\dot{I}_2$の大きさは以下のとおり。
+
+$|\dot{I}_2|=|\frac{\dot{E}_a+\dot{E}_b-\dot{E}_c}{R_2}|=|\frac{-2\dot{E}_c}{R_2}|=frac{200}{20}=10$[A]
+
+- 抵抗$R_2$ で消費される電力$P_2$は以下のとおり。
+
+$P_2=R_2|\dot{I}_2|^2=20\times 10^2=2000$[W]
+
+ 
 
 ## 参考動画
 
