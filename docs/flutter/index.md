@@ -29,3 +29,7 @@ Flutterとは、Googleが開発・提供しているオープンソースのモ�
     - DatePicker（日付選択画面）を作成する方法（日本語化の方法含む）
 - Todoアプリ
 - 電卓アプリ
+
+## Flutter応用編
+
+- [AndroidアプリをGoogle Playで公開](./google-play-store.md)
