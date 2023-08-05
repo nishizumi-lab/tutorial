@@ -25,3 +25,8 @@
     - 補助率は7/10、助成回数は夫婦1組につき1回限り。
 - [兵庫県特定不妊治療費助成事業(終了)](https://web.pref.hyogo.lg.jp/kf17/hw13_000000016.html)
     - 令和4年4月から不妊治療が保険適用になったため、令和5年3月31日で受付終了。
+
+## イベント
+
+- 花火大会
+    - [淀川花火大会の穴場スポット(神崎橋)](./event/yodogawahanabi-anaba-spot-amagasaki-kanzakibashi.md)
