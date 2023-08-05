@@ -3,6 +3,14 @@
 ## 【穴場スポット1】神崎橋(神崎川の堤防)
 
 兵庫県尼崎市の神崎橋(神崎川の堤防沿い)は、淀川花火がよく見える穴場スポットです。
+花火か割りと近くで綺麗に見え、人も少ないので終了後も快適に帰宅できて良いところでした。
+
+### フィナーレの様子
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gjgICyz53Cc?si=87IvVSTLx-F3R12Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+神崎橋(神崎川の堤防沿い)から見た、淀川花火大会(2023年)のフィナーレです。綺麗によく見えました。
+
 
 ### 場所(地図)
 
@@ -15,9 +23,5 @@
 地元の住人が集まりますが、道が埋まるほど人が殺到するようなことはなく、開始10分前くらいに到着したときはガラガラで、好きな場所で快適に見れました。
 
 
-### フィナーレの様子
-
-神崎橋(神崎川の堤防沿い)から見た、淀川花火のフィナーレです。
-綺麗によく見えています。
 
 
