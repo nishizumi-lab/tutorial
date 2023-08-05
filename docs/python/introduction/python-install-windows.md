@@ -1,4 +1,4 @@
-# 【Python】Windows11に簡単にインストールする方法を紹介
+# 【Python】Windowsへ簡単にインストールする方法を紹介
 
 ## 各種インストール方法の比較
 
@@ -21,6 +21,8 @@ WindonsにPythonの開発環境を構築する方法は以下のとおりいく�
 
 - ある程度、Pythonに使い慣れてきたら、VSCode(Visual Studio Code)でコードを書いて実行するのがおすすめです。VScodeには、Pythonの開発を快適に行える様々な拡張機能があり、効率よく中～大規模なPythonプログラムを構築できます。導入方法は以下ページで解説しています。
 
+- [【Windows11】標準インストーラでPythonをインストールする方法](./python-standard-install-windows.md)
+
 ## 【方法2】Google Colaboratoryを使う
 
 Google Colaboratoryという、クラウドサービスを使えば、インストール作業の必要もなく、WebブラウザだけでPythonを実行できます。インストール作業に不安のある初級者から、GPUが搭載されていないモバイルPCで本格的な機械学習をしたい中上級者にもおすすめです。詳細は以下ページで紹介しています。
@@ -35,6 +37,7 @@ Google Colaboratoryという、クラウドサービスを使えば、インス�
 尚、Pythonにはバージョン2と3の2種類がありますが特にこだわりがなければ3をオススメします。
 (詳細は以下記事にまとめています)
 
+- [【Windows11】WinPythonをインストールする方法](./winpython-install-windows.md)
 
 ## 【方法4】WSL(Windows Subsystem for Linux)上でインストール
 
