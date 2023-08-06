@@ -32,6 +32,7 @@
 ## 学問・資格取得
 
 - [情報処理技術者試験](./it/index.md)
+    - [情報処理安全確保支援士(登録セキスペ)](./it/certification/sc.md)
 - [電験3種](./electricity/denken/index.md)
 - [FP(ファイナンシャル・プランナー)](./fp/index.md)
 
