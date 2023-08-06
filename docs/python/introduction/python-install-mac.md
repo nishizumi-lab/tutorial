@@ -32,7 +32,7 @@ $ python3 [Pythonファイルのパス]/test.py
 ```
 $ python3 --version
 
-python 3.7.10
+python 3.9.5
 ```
 
 ## 【方法2】Google Colaboratoryを使う(初級者〜上級者向け)
@@ -59,9 +59,9 @@ MacにはデフォルトでPython環境がインストールされています�
 
 以下のような導入手順となります。
 
-- App StoreからXcodeをインストールします。
+- App Store[https://apps.apple.com/jp/app/xcode/id497799835](https://apps.apple.com/jp/app/xcode/id497799835)からXcodeをインストールします。
 
-- ターミナルからXCodeのCommand Line Toolsをインストールします。
+- ターミナルを起動し、以下のコマンドでXCodeのCommand Line Toolsをインストールします。
 
 ```
 $ xcode-select --install

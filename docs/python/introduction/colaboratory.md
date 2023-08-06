@@ -20,7 +20,7 @@ Pythonの練習をするなら無料版で十分ですが、それぞれの違�
 項目|無料版|Colab Pro|Colab Pro+
 --|--|--|--
 月額利用料金|無料|1179円|5767円
-GPU|自動割当|常に高性能なGPUが割当られる|常に高性能なGPUが割当られる
+GPU|利用可能|高性能なGPUを利用可能|高性能なGPUを利用可能
 メモリ|普通(通常利用では十分)|大容量(大量のデータを扱える)|大容量(大量のデータを扱える)
 使用時間|最長 12 時間|最長 24 時間|最長 24 時間
 バックグラウンド実行|✕|✕|○
@@ -499,4 +499,8 @@ torch @ https://download.pytorch.org/whl/cu118/torch-2.0.1%2Bcu118-cp310-cp310-l
 torchaudio @ https://download.pytorch.org/whl/cu118/torchaudio-2.0.2%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=26692645ea061a005c57ec581a2d0425210ac6ba9f923edf11cc9b0ef3a111e9
 torchdata==0.6.1
 ```
+
+## 関連ページ
+
+[Python入門 サンプルと解説集](../index.md)
 
