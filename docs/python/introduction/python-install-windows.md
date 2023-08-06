@@ -42,8 +42,10 @@ Google Colaboratoryという、クラウドサービスを使えば、インス�
 ## 【方法4】WSL(Windows Subsystem for Linux)上でインストール
 
 WindowsのWSLにインストールする方法もあります。
-Linuxにしか対応していないライブラリを使うときは、この方法を使っています。
-(詳細は以下記事にまとめています)
+Linuxにしか対応していないライブラリを使うときは、この方法を使います。詳細は以下ページで解説します。
+
+- [【WSL】Pythonをインストールして使う方法](./python-install-wsl.md)
+
 
 ## 関連ページ
 
