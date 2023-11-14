@@ -1,1 +1,1 @@
-- [https://gijutsuweblog.net/](https://gijutsuweblog.net/)
+- [https://nishizumi-lab.github.io/tutorial/](https://nishizumi-lab.github.io/tutorial/)
